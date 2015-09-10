@@ -1,0 +1,19 @@
+﻿Build started 11.09.2015 0:41:29.
+     1>Project "C:\Users\User\Documents\Visual Studio 2010\Projects\mysql\mysql\mysql.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "x64\Debug\mysql.unsuccessfulbuild".
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D CPPCONN_PUBLIC_FUNC= /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"x64\Debug\mysql.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D CPPCONN_PUBLIC_FUNC= /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"x64\Debug\mysql.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt mysql.cpp pars.cpp
+         pars.cpp
+     1>pars.cpp(26): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>pars.cpp(114): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+         mysql.cpp
+     1>mysql.cpp(21): fatal error C1083: Cannot open include file: 'mysql.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "C:\Users\User\Documents\Visual Studio 2010\Projects\mysql\mysql\mysql.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.75

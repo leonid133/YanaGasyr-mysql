@@ -1,0 +1,6 @@
+Friday 09/11/15 00:47:52: ----------------
+Friday 09/11/15 00:47:52: Incorrect datetime value: '-- ' for column 'DateTime' at row 1
+Friday 09/11/15 00:47:52:  REPLACE INTO `cpp_data`.`dbm` (`n`, `DateTime`,`more0`, `type`,`locate`, `filename`, `time2`, `more1`, `more2`) 
+ VALUES ("", "-- ", "", "", "", "", "", "", " " )
+Friday 09/11/15 00:47:52: D:\tnvdata\2015-07-29.dpm
+Friday 09/11/15 00:47:52: ----------------

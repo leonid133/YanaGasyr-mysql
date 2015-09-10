@@ -1,0 +1,1 @@
+start /d"d:\mysql\x64\Release\" mysql.exe -p

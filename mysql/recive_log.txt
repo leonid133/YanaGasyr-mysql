@@ -1,0 +1,34 @@
+Friday 09/11/15 00:47:07: Читаем connection.txt
+Friday 09/11/15 00:47:07: Настройки подключения к БД host, user, password, database, port, unix_socket, clientflag 
+Friday 09/11/15 00:47:07: localhost
+Friday 09/11/15 00:47:07: admin
+Friday 09/11/15 00:47:07: admin
+Friday 09/11/15 00:47:07: cpp_data
+Friday 09/11/15 00:47:07: 3306
+Friday 09/11/15 00:47:07: 0
+Friday 09/11/15 00:47:07: 0
+Friday 09/11/15 00:47:07: Настройки расположения файлов  dpm_filepath, dpm_filename, aliase_patch
+Friday 09/11/15 00:47:07: D:\tnvdata\
+Friday 09/11/15 00:47:07: *.dpm
+Friday 09/11/15 00:47:07: D:\\tnvdata\\
+Friday 09/11/15 00:47:07: Ищем файлы в директории
+Friday 09/11/15 00:47:07: 2015-07-29.dpm
+Friday 09/11/15 00:47:08: Подключаемся к БД 
+
+Friday 09/11/15 00:47:08: читаем алиасы
+Friday 09/11/15 00:47:08: D:\\tnvdata\\Aliases.ini
+Friday 09/11/15 00:47:08: Alias0=Тестовый*\\Digiton_server\TNV_RADIO\BIG_BASE\POLNAYA_BAZA\
+Friday 09/11/15 00:47:08: Alias1=джинглы*\\Digiton_server\TNV_RADIO\JINGL'S\
+Friday 09/11/15 00:47:08: Alias2=реклама*\\Digiton_server\TNV_RADIO\RECLAMA\
+Friday 09/11/15 00:47:08: Alias3=TNV-for-Efir*\\Digiton_server\TNV_RADIO\TNV-for-Efir\
+Friday 09/11/15 00:47:08: Alias4=NEWS*\\Digiton_server\tnv_radio\NEWS\
+Friday 09/11/15 00:47:08: Alias5=PROGRAMS*\\Digiton_server\tnv_radio\PROGRAMS\
+Friday 09/11/15 00:47:08: Alias6=ROTACIA*\\Digiton_server\tnv_radio\ROTACIA\
+Friday 09/11/15 00:47:08: Alias7=BIG_BASE*\\Digiton_server\TNV_RADIO\BIG_BASE\
+Friday 09/11/15 00:47:08: Alias8=ATM*\\Digiton_server\tnv_radio\ATM\
+Friday 09/11/15 00:47:08: Alias9=region1_chelni_nizhnekamsk*\\MERLIN\region\region1_chelni_nizhnekamsk\audio\region1_chelni_nizhnekamsk\
+Friday 09/11/15 00:47:08: Alias10=region2_leninogorsk_almetevsk*\\MERLIN\region\region2_leninogorsk_almetevsk\audio\region2_leninogorsk_almetevsk\
+Friday 09/11/15 00:47:08: Update Aliaces
+Friday 09/11/15 00:47:14: открываем файл для чтения
+Friday 09/11/15 00:47:14: D:\tnvdata\2015-07-29.dpm
+Friday 09/11/15 00:47:52: Завершаем работу.

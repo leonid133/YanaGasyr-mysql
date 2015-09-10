@@ -1,0 +1,56 @@
+﻿Build started 04.09.2015 1:50:37.
+     1>Project "c:\Users\User\documents\visual studio 2010\Projects\mysql\mysql\mysql.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\mysql.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files\MySQL\MySQL Server 5.6\include" /I"C:\Program Files\MySQL\Connector.C++ 1.1\include" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D CPPCONN_PUBLIC_FUNC= /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\mysql.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt mysql.cpp
+         mysql.cpp
+     1>c:\program files\mysql\mysql server 5.6\include\mysql_com.h(320): error C2146: syntax error : missing ';' before identifier 'fd'
+     1>c:\program files\mysql\mysql server 5.6\include\mysql_com.h(320): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\program files\mysql\mysql server 5.6\include\mysql_com.h(320): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>mysql.cpp(16): error C2601: 'main' : local function definitions are illegal
+                 mysql.cpp(9): this line contains a '{' which has not yet been matched
+     1>mysql.cpp(17): error C2065: 'mysql' : undeclared identifier
+     1>mysql.cpp(20): error C2065: 'connection' : undeclared identifier
+     1>mysql.cpp(20): error C2065: 'mysql' : undeclared identifier
+     1>mysql.cpp(22): error C2065: 'connection' : undeclared identifier
+     1>mysql.cpp(23): error C2065: 'amp' : undeclared identifier
+     1>mysql.cpp(23): error C2143: syntax error : missing ')' before ';'
+     1>mysql.cpp(23): error C2059: syntax error : ')'
+     1>mysql.cpp(23): error C2065: 'mysql' : undeclared identifier
+     1>mysql.cpp(23): error C2563: mismatch in formal parameter list
+     1>mysql.cpp(23): error C2568: '<<' : unable to resolve function overload
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\ostream(1021): could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+                 with
+                 [
+                     _Elem=unsigned short,
+                     _Traits=std::char_traits<unsigned short>
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\ostream(1011): or       'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\ostream(1003): or       'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\ostream(977): or       'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+     1>mysql.cpp(27): error C2065: 'query_state' : undeclared identifier
+     1>mysql.cpp(27): error C2065: 'connection' : undeclared identifier
+     1>mysql.cpp(28): error C2065: 'query_state' : undeclared identifier
+     1>mysql.cpp(29): error C2065: 'connection' : undeclared identifier
+     1>mysql.cpp(33): error C2065: 'result' : undeclared identifier
+     1>mysql.cpp(33): error C2065: 'connection' : undeclared identifier
+     1>mysql.cpp(34): error C2065: 'row' : undeclared identifier
+     1>mysql.cpp(34): error C2065: 'result' : undeclared identifier
+     1>mysql.cpp(34): fatal error C1903: unable to recover from previous error(s); stopping compilation
+     1>Done Building Project "c:\Users\User\documents\visual studio 2010\Projects\mysql\mysql\mysql.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.44
