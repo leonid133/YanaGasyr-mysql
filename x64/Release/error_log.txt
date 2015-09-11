@@ -1,1 +1,0 @@
-Tuesday 09/08/15 18:51:43: Incorrect datetime value: '-- ' for column 'DateTime' at row 1
