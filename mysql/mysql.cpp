@@ -274,6 +274,35 @@ COLLATE = utf8_bin;
 
     for(auto it_dpm_file_vector = dpm_file_vector.begin(); it_dpm_file_vector != dpm_file_vector.end(); ++it_dpm_file_vector )
     {
+        std::string filename_date;
+        std::string filename = *it_dpm_file_vector;
+        for(auto it_filename = filename.begin(); it_filename != filename.end(); ++it_filename  )
+        {
+            if(*it_filename == char(.))
+                break;
+            filename_date += *it_filename;
+        }
+        std::string day = "";
+	    std::string mon = "";
+	    std::string year = "";
+        parsfiledatecounter = 0;
+        for(auto it_filename_date =filename_date.begin(); it_filename_date!= filename_date.end(); ++it_filename_date)
+        {
+		    if(*it_filename_date == 46)
+		    {	parsfiledatecounter++; }
+		    switch( parscounter )	
+		    {
+			    case 0:
+				    day += Date1[i];
+			    break;
+			    case 1:
+				    mon += Date1[i];
+			    break;
+			    case 2:
+				    year += Date1[i];
+			    break;
+		    }
+        }
         std::string patch_file_name = dpm_filepath;
         patch_file_name += *it_dpm_file_vector;
         ReciveMsg("открываем файл для чтения");
@@ -302,7 +331,8 @@ COLLATE = utf8_bin;
 
 		  for(int i=0; i<(count); i++)
 		  {
-			  std::string sqluery;
+			  
+              std::string sqluery;
 			  sqluery = " REPLACE INTO `cpp_data`.`dbm` (`n`, `DateTime`,`more0`, `type`,`locate`, `filename`, `time2`, `more1`, `more2`) \n VALUES (\"" + parser1[i]->n;
 			  sqluery += "\", \"" + parser1[i]->DateTime;
 			  sqluery +="\", \"" + parser1[i]->more0;
@@ -313,7 +343,15 @@ COLLATE = utf8_bin;
 			  sqluery +="\", \"" + parser1[i]->more1;
 			  sqluery +="\", \"" + parser1[i]->more2;
 			  sqluery +="\" )"; 
-			
+			  
+              if( !parser1[i]->success )
+              {
+                  ErrMsg("----------------");
+                  ErrMsg( sqluery );
+                  ErrMsg( patch_file_name );
+                  ErrMsg("----------------");
+                  continue;
+              }
               //ReciveMsg( sqluery );
 			  query_state = mysql_query(connection, sqluery.c_str() );
 			  if (query_state !=0) 

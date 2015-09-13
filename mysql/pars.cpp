@@ -22,6 +22,7 @@ void Parser::parseStr( std::string arg )
 	time2 = "";
 	more1 = "";
 	more2 = " ";
+    success = false;
 	
 	for ( int i= 0, i_end = arg.length()-1; i < i_end; ++i )
 	{
@@ -54,11 +55,15 @@ void Parser::parseStr( std::string arg )
 			break;
 
 			case 5:
-				this->locate += arg[i];
-                if( arg[i] == '\\')
-                     this->locate += '\\';
-				if(arg[i]==92 )
-				    {filname = ""; i++;}
+				
+                if( arg[i] == 92 )
+                    this->locate += "\\\\";
+                else if( arg[i] == 34 )
+                    this->locate += "\\\"";
+                else
+                    this->locate += arg[i];
+				if( arg[i] == 92 )
+				    {filname = "";}
 				filname += arg[i];
 			break;
 
@@ -67,14 +72,19 @@ void Parser::parseStr( std::string arg )
 			break;
 
 			case 7:
-				if(arg[i] == 9)
+				
+                if(arg[i] == 9)
 				{parscounter++;}
+                else if( arg[i] == 34 )
+                    more1 += "\\\"";
 				else more1 += arg[i];
 			break;
 
 			case 8:
-				
-					more2 += arg[i];
+				if( arg[i] == 34 )
+                    more2 += "\\\"";
+                else	
+                    more2 += arg[i];
 			break;
 			
 			default:;
@@ -128,14 +138,24 @@ void Parser::parseStr( std::string arg )
 			break;
 		}
 	}
-	DateTime = year;
-	DateTime += "-";
-	DateTime += mon;
-	DateTime += "-";
-	DateTime += day;
-	DateTime += " ";
-	DateTime += time1;
-}; 
+    if( parscounter == 2 )
+    {
+	    DateTime = year;
+	    DateTime += "-";
+	    DateTime += mon;
+	    DateTime += "-";
+	    DateTime += day;
+	    DateTime += " ";
+	    DateTime += time1;
+        success = true;
+    }
+    std::string correct_filename = "";
+    for ( int i= 0, i_end = filname.length(); i < i_end; ++i )
+	{
+        if( filname[i] != 92 )
+        correct_filename += filname[i];
+    }
+ }; 
 
 
 bool ParseIni( std::string &result, const std::string patch_file_name, const std::string find_arg )

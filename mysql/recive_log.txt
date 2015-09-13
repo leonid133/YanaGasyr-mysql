@@ -32,3 +32,1448 @@ Friday 09/11/15 00:47:08: Update Aliaces
 Friday 09/11/15 00:47:14: открываем файл для чтения
 Friday 09/11/15 00:47:14: D:\tnvdata\2015-07-29.dpm
 Friday 09/11/15 00:47:52: Завершаем работу.
+Sunday 09/13/15 21:58:25: Читаем connection.txt
+Sunday 09/13/15 21:58:25: Настройки подключения к БД host, user, password, database, port, unix_socket, clientflag 
+Sunday 09/13/15 21:58:25: localhost
+Sunday 09/13/15 21:58:25: admin
+Sunday 09/13/15 21:58:25: admin
+Sunday 09/13/15 21:58:25: cpp_data
+Sunday 09/13/15 21:58:25: 3306
+Sunday 09/13/15 21:58:25: 0
+Sunday 09/13/15 21:58:25: 0
+Sunday 09/13/15 21:58:25: Настройки расположения файлов  dpm_filepath, dpm_filename, aliase_patch
+Sunday 09/13/15 21:58:25: D:\tnvdata\
+Sunday 09/13/15 21:58:25: *.dpm
+Sunday 09/13/15 21:58:25: D:\\tnvdata\\
+Sunday 09/13/15 21:58:25: Ищем файлы в директории
+Sunday 09/13/15 21:58:25: 2015-07-01.dpm
+Sunday 09/13/15 21:58:25: 2015-07-02.dpm
+Sunday 09/13/15 21:58:25: 2015-07-03.dpm
+Sunday 09/13/15 21:58:25: 2015-07-04.dpm
+Sunday 09/13/15 21:58:25: 2015-07-05.dpm
+Sunday 09/13/15 21:58:25: 2015-07-06.dpm
+Sunday 09/13/15 21:58:25: 2015-07-07.dpm
+Sunday 09/13/15 21:58:25: 2015-07-08.dpm
+Sunday 09/13/15 21:58:25: 2015-07-09.dpm
+Sunday 09/13/15 21:58:25: 2015-07-10.dpm
+Sunday 09/13/15 21:58:25: 2015-07-11.dpm
+Sunday 09/13/15 21:58:25: 2015-07-12.dpm
+Sunday 09/13/15 21:58:25: 2015-07-13.dpm
+Sunday 09/13/15 21:58:25: 2015-07-14.dpm
+Sunday 09/13/15 21:58:25: 2015-07-15.dpm
+Sunday 09/13/15 21:58:25: 2015-07-16.dpm
+Sunday 09/13/15 21:58:25: 2015-07-17.dpm
+Sunday 09/13/15 21:58:25: 2015-07-18.dpm
+Sunday 09/13/15 21:58:25: 2015-07-19.dpm
+Sunday 09/13/15 21:58:25: 2015-07-20.dpm
+Sunday 09/13/15 21:58:25: 2015-07-21.dpm
+Sunday 09/13/15 21:58:25: 2015-07-22.dpm
+Sunday 09/13/15 21:58:25: 2015-07-23.dpm
+Sunday 09/13/15 21:58:25: 2015-07-24.dpm
+Sunday 09/13/15 21:58:25: 2015-07-25.dpm
+Sunday 09/13/15 21:58:25: 2015-07-26.dpm
+Sunday 09/13/15 21:58:25: 2015-07-27.dpm
+Sunday 09/13/15 21:58:25: 2015-07-28.dpm
+Sunday 09/13/15 21:58:25: 2015-07-29.dpm
+Sunday 09/13/15 21:58:25: 2015-07-30.dpm
+Sunday 09/13/15 21:58:25: 2015-07-31.dpm
+Sunday 09/13/15 21:58:25: Подключаемся к БД 
+
+Sunday 09/13/15 21:58:25: читаем алиасы
+Sunday 09/13/15 21:58:25: D:\\tnvdata\\Aliases.ini
+Sunday 09/13/15 21:58:25: Alias0=Тестовый*\\Digiton_server\TNV_RADIO\BIG_BASE\POLNAYA_BAZA\
+Sunday 09/13/15 21:58:25: Alias1=джинглы*\\Digiton_server\TNV_RADIO\JINGL'S\
+Sunday 09/13/15 21:58:25: Alias2=реклама*\\Digiton_server\TNV_RADIO\RECLAMA\
+Sunday 09/13/15 21:58:25: Alias3=TNV-for-Efir*\\Digiton_server\TNV_RADIO\TNV-for-Efir\
+Sunday 09/13/15 21:58:25: Alias4=NEWS*\\Digiton_server\tnv_radio\NEWS\
+Sunday 09/13/15 21:58:25: Alias5=PROGRAMS*\\Digiton_server\tnv_radio\PROGRAMS\
+Sunday 09/13/15 21:58:25: Alias6=ROTACIA*\\Digiton_server\tnv_radio\ROTACIA\
+Sunday 09/13/15 21:58:25: Alias7=BIG_BASE*\\Digiton_server\TNV_RADIO\BIG_BASE\
+Sunday 09/13/15 21:58:25: Alias8=ATM*\\Digiton_server\tnv_radio\ATM\
+Sunday 09/13/15 21:58:25: Alias9=region1_chelni_nizhnekamsk*\\MERLIN\region\region1_chelni_nizhnekamsk\audio\region1_chelni_nizhnekamsk\
+Sunday 09/13/15 21:58:25: Alias10=region2_leninogorsk_almetevsk*\\MERLIN\region\region2_leninogorsk_almetevsk\audio\region2_leninogorsk_almetevsk\
+Sunday 09/13/15 21:58:25: Update Aliaces
+Sunday 09/13/15 21:58:25: открываем файл для чтения
+Sunday 09/13/15 21:58:25: D:\tnvdata\2015-07-01.dpm
+Sunday 09/13/15 21:58:54: открываем файл для чтения
+Sunday 09/13/15 21:58:54: D:\tnvdata\2015-07-02.dpm
+Sunday 09/13/15 21:59:59: Читаем connection.txt
+Sunday 09/13/15 21:59:59: Настройки подключения к БД host, user, password, database, port, unix_socket, clientflag 
+Sunday 09/13/15 21:59:59: localhost
+Sunday 09/13/15 21:59:59: admin
+Sunday 09/13/15 21:59:59: admin
+Sunday 09/13/15 21:59:59: cpp_data
+Sunday 09/13/15 21:59:59: 3306
+Sunday 09/13/15 21:59:59: 0
+Sunday 09/13/15 21:59:59: 0
+Sunday 09/13/15 21:59:59: Настройки расположения файлов  dpm_filepath, dpm_filename, aliase_patch
+Sunday 09/13/15 21:59:59: D:\tnvdata\
+Sunday 09/13/15 21:59:59: *.dpm
+Sunday 09/13/15 21:59:59: D:\\tnvdata\\
+Sunday 09/13/15 21:59:59: Ищем файлы в директории
+Sunday 09/13/15 21:59:59: 2015-07-01.dpm
+Sunday 09/13/15 21:59:59: 2015-07-02.dpm
+Sunday 09/13/15 21:59:59: 2015-07-03.dpm
+Sunday 09/13/15 21:59:59: 2015-07-04.dpm
+Sunday 09/13/15 21:59:59: 2015-07-05.dpm
+Sunday 09/13/15 21:59:59: 2015-07-06.dpm
+Sunday 09/13/15 21:59:59: 2015-07-07.dpm
+Sunday 09/13/15 21:59:59: 2015-07-08.dpm
+Sunday 09/13/15 21:59:59: 2015-07-09.dpm
+Sunday 09/13/15 21:59:59: 2015-07-10.dpm
+Sunday 09/13/15 21:59:59: 2015-07-11.dpm
+Sunday 09/13/15 21:59:59: 2015-07-12.dpm
+Sunday 09/13/15 21:59:59: 2015-07-13.dpm
+Sunday 09/13/15 21:59:59: 2015-07-14.dpm
+Sunday 09/13/15 21:59:59: 2015-07-15.dpm
+Sunday 09/13/15 21:59:59: 2015-07-16.dpm
+Sunday 09/13/15 21:59:59: 2015-07-17.dpm
+Sunday 09/13/15 21:59:59: 2015-07-18.dpm
+Sunday 09/13/15 21:59:59: 2015-07-19.dpm
+Sunday 09/13/15 21:59:59: 2015-07-20.dpm
+Sunday 09/13/15 21:59:59: 2015-07-21.dpm
+Sunday 09/13/15 21:59:59: 2015-07-22.dpm
+Sunday 09/13/15 21:59:59: 2015-07-23.dpm
+Sunday 09/13/15 21:59:59: 2015-07-24.dpm
+Sunday 09/13/15 21:59:59: 2015-07-25.dpm
+Sunday 09/13/15 21:59:59: 2015-07-26.dpm
+Sunday 09/13/15 21:59:59: 2015-07-27.dpm
+Sunday 09/13/15 21:59:59: 2015-07-28.dpm
+Sunday 09/13/15 21:59:59: 2015-07-29.dpm
+Sunday 09/13/15 21:59:59: 2015-07-30.dpm
+Sunday 09/13/15 21:59:59: 2015-07-31.dpm
+Sunday 09/13/15 21:59:59: Подключаемся к БД 
+
+Sunday 09/13/15 21:59:59: читаем алиасы
+Sunday 09/13/15 21:59:59: D:\\tnvdata\\Aliases.ini
+Sunday 09/13/15 21:59:59: Alias0=Тестовый*\\Digiton_server\TNV_RADIO\BIG_BASE\POLNAYA_BAZA\
+Sunday 09/13/15 21:59:59: Alias1=джинглы*\\Digiton_server\TNV_RADIO\JINGL'S\
+Sunday 09/13/15 21:59:59: Alias2=реклама*\\Digiton_server\TNV_RADIO\RECLAMA\
+Sunday 09/13/15 21:59:59: Alias3=TNV-for-Efir*\\Digiton_server\TNV_RADIO\TNV-for-Efir\
+Sunday 09/13/15 21:59:59: Alias4=NEWS*\\Digiton_server\tnv_radio\NEWS\
+Sunday 09/13/15 21:59:59: Alias5=PROGRAMS*\\Digiton_server\tnv_radio\PROGRAMS\
+Sunday 09/13/15 21:59:59: Alias6=ROTACIA*\\Digiton_server\tnv_radio\ROTACIA\
+Sunday 09/13/15 21:59:59: Alias7=BIG_BASE*\\Digiton_server\TNV_RADIO\BIG_BASE\
+Sunday 09/13/15 21:59:59: Alias8=ATM*\\Digiton_server\tnv_radio\ATM\
+Sunday 09/13/15 21:59:59: Alias9=region1_chelni_nizhnekamsk*\\MERLIN\region\region1_chelni_nizhnekamsk\audio\region1_chelni_nizhnekamsk\
+Sunday 09/13/15 21:59:59: Alias10=region2_leninogorsk_almetevsk*\\MERLIN\region\region2_leninogorsk_almetevsk\audio\region2_leninogorsk_almetevsk\
+Sunday 09/13/15 21:59:59: Update Aliaces
+Sunday 09/13/15 22:00:07: открываем файл для чтения
+Sunday 09/13/15 22:00:09: D:\tnvdata\2015-07-01.dpm
+Sunday 09/13/15 22:01:45: открываем файл для чтения
+Sunday 09/13/15 22:01:45: D:\tnvdata\2015-07-02.dpm
+Sunday 09/13/15 22:03:12: открываем файл для чтения
+Sunday 09/13/15 22:03:12: D:\tnvdata\2015-07-03.dpm
+Sunday 09/13/15 22:10:33: Читаем connection.txt
+Sunday 09/13/15 22:10:33: Настройки подключения к БД host, user, password, database, port, unix_socket, clientflag 
+Sunday 09/13/15 22:10:33: localhost
+Sunday 09/13/15 22:10:33: admin
+Sunday 09/13/15 22:10:33: admin
+Sunday 09/13/15 22:10:33: cpp_data
+Sunday 09/13/15 22:10:33: 3306
+Sunday 09/13/15 22:10:33: 0
+Sunday 09/13/15 22:10:33: 0
+Sunday 09/13/15 22:10:33: Настройки расположения файлов  dpm_filepath, dpm_filename, aliase_patch
+Sunday 09/13/15 22:10:33: D:\tnvdata\
+Sunday 09/13/15 22:10:33: *.dpm
+Sunday 09/13/15 22:10:33: D:\\tnvdata\\
+Sunday 09/13/15 22:10:33: Ищем файлы в директории
+Sunday 09/13/15 22:10:33: 2015-07-01.dpm
+Sunday 09/13/15 22:10:33: 2015-07-02.dpm
+Sunday 09/13/15 22:10:33: 2015-07-03.dpm
+Sunday 09/13/15 22:10:33: 2015-07-04.dpm
+Sunday 09/13/15 22:10:33: 2015-07-05.dpm
+Sunday 09/13/15 22:10:33: 2015-07-06.dpm
+Sunday 09/13/15 22:10:33: 2015-07-07.dpm
+Sunday 09/13/15 22:10:33: 2015-07-08.dpm
+Sunday 09/13/15 22:10:33: 2015-07-09.dpm
+Sunday 09/13/15 22:10:33: 2015-07-10.dpm
+Sunday 09/13/15 22:10:33: 2015-07-11.dpm
+Sunday 09/13/15 22:10:33: 2015-07-12.dpm
+Sunday 09/13/15 22:10:33: 2015-07-13.dpm
+Sunday 09/13/15 22:10:33: 2015-07-14.dpm
+Sunday 09/13/15 22:10:33: 2015-07-15.dpm
+Sunday 09/13/15 22:10:33: 2015-07-16.dpm
+Sunday 09/13/15 22:10:33: 2015-07-17.dpm
+Sunday 09/13/15 22:10:33: 2015-07-18.dpm
+Sunday 09/13/15 22:10:33: 2015-07-19.dpm
+Sunday 09/13/15 22:10:33: 2015-07-20.dpm
+Sunday 09/13/15 22:10:33: 2015-07-21.dpm
+Sunday 09/13/15 22:10:33: 2015-07-22.dpm
+Sunday 09/13/15 22:10:33: 2015-07-23.dpm
+Sunday 09/13/15 22:10:33: 2015-07-24.dpm
+Sunday 09/13/15 22:10:33: 2015-07-25.dpm
+Sunday 09/13/15 22:10:33: 2015-07-26.dpm
+Sunday 09/13/15 22:10:33: 2015-07-27.dpm
+Sunday 09/13/15 22:10:33: 2015-07-28.dpm
+Sunday 09/13/15 22:10:33: 2015-07-29.dpm
+Sunday 09/13/15 22:10:33: 2015-07-30.dpm
+Sunday 09/13/15 22:10:33: 2015-07-31.dpm
+Sunday 09/13/15 22:10:33: Подключаемся к БД 
+
+Sunday 09/13/15 22:10:33: читаем алиасы
+Sunday 09/13/15 22:10:33: D:\\tnvdata\\Aliases.ini
+Sunday 09/13/15 22:10:33: Alias0=Тестовый*\\Digiton_server\TNV_RADIO\BIG_BASE\POLNAYA_BAZA\
+Sunday 09/13/15 22:10:33: Alias1=джинглы*\\Digiton_server\TNV_RADIO\JINGL'S\
+Sunday 09/13/15 22:10:33: Alias2=реклама*\\Digiton_server\TNV_RADIO\RECLAMA\
+Sunday 09/13/15 22:10:33: Alias3=TNV-for-Efir*\\Digiton_server\TNV_RADIO\TNV-for-Efir\
+Sunday 09/13/15 22:10:33: Alias4=NEWS*\\Digiton_server\tnv_radio\NEWS\
+Sunday 09/13/15 22:10:33: Alias5=PROGRAMS*\\Digiton_server\tnv_radio\PROGRAMS\
+Sunday 09/13/15 22:10:33: Alias6=ROTACIA*\\Digiton_server\tnv_radio\ROTACIA\
+Sunday 09/13/15 22:10:33: Alias7=BIG_BASE*\\Digiton_server\TNV_RADIO\BIG_BASE\
+Sunday 09/13/15 22:10:33: Alias8=ATM*\\Digiton_server\tnv_radio\ATM\
+Sunday 09/13/15 22:10:33: Alias9=region1_chelni_nizhnekamsk*\\MERLIN\region\region1_chelni_nizhnekamsk\audio\region1_chelni_nizhnekamsk\
+Sunday 09/13/15 22:10:33: Alias10=region2_leninogorsk_almetevsk*\\MERLIN\region\region2_leninogorsk_almetevsk\audio\region2_leninogorsk_almetevsk\
+Sunday 09/13/15 22:10:33: Update Aliaces
+Sunday 09/13/15 22:10:35: открываем файл для чтения
+Sunday 09/13/15 22:10:35: D:\tnvdata\2015-07-01.dpm
+Sunday 09/13/15 22:11:09: открываем файл для чтения
+Sunday 09/13/15 22:11:09: D:\tnvdata\2015-07-02.dpm
+Sunday 09/13/15 22:11:57: открываем файл для чтения
+Sunday 09/13/15 22:11:57: D:\tnvdata\2015-07-03.dpm
+Sunday 09/13/15 22:13:08: открываем файл для чтения
+Sunday 09/13/15 22:13:08: D:\tnvdata\2015-07-04.dpm
+Sunday 09/13/15 22:14:39: открываем файл для чтения
+Sunday 09/13/15 22:14:39: D:\tnvdata\2015-07-05.dpm
+Sunday 09/13/15 22:20:47: Читаем connection.txt
+Sunday 09/13/15 22:20:47: Настройки подключения к БД host, user, password, database, port, unix_socket, clientflag 
+Sunday 09/13/15 22:20:47: localhost
+Sunday 09/13/15 22:20:47: admin
+Sunday 09/13/15 22:20:47: admin
+Sunday 09/13/15 22:20:47: cpp_data
+Sunday 09/13/15 22:20:47: 3306
+Sunday 09/13/15 22:20:47: 0
+Sunday 09/13/15 22:20:47: 0
+Sunday 09/13/15 22:20:47: Настройки расположения файлов  dpm_filepath, dpm_filename, aliase_patch
+Sunday 09/13/15 22:20:47: D:\tnvdata\
+Sunday 09/13/15 22:20:47: *.dpm
+Sunday 09/13/15 22:20:47: D:\\tnvdata\\
+Sunday 09/13/15 22:20:47: Ищем файлы в директории
+Sunday 09/13/15 22:20:47: 2015-07-01.dpm
+Sunday 09/13/15 22:20:47: 2015-07-02.dpm
+Sunday 09/13/15 22:20:47: 2015-07-03.dpm
+Sunday 09/13/15 22:20:47: 2015-07-04.dpm
+Sunday 09/13/15 22:20:47: 2015-07-05.dpm
+Sunday 09/13/15 22:20:47: 2015-07-06.dpm
+Sunday 09/13/15 22:20:47: 2015-07-07.dpm
+Sunday 09/13/15 22:20:47: 2015-07-08.dpm
+Sunday 09/13/15 22:20:47: 2015-07-09.dpm
+Sunday 09/13/15 22:20:47: 2015-07-10.dpm
+Sunday 09/13/15 22:20:47: 2015-07-11.dpm
+Sunday 09/13/15 22:20:47: 2015-07-12.dpm
+Sunday 09/13/15 22:20:47: 2015-07-13.dpm
+Sunday 09/13/15 22:20:47: 2015-07-14.dpm
+Sunday 09/13/15 22:20:47: 2015-07-15.dpm
+Sunday 09/13/15 22:20:47: 2015-07-16.dpm
+Sunday 09/13/15 22:20:47: 2015-07-17.dpm
+Sunday 09/13/15 22:20:47: 2015-07-18.dpm
+Sunday 09/13/15 22:20:47: 2015-07-19.dpm
+Sunday 09/13/15 22:20:47: 2015-07-20.dpm
+Sunday 09/13/15 22:20:47: 2015-07-21.dpm
+Sunday 09/13/15 22:20:47: 2015-07-22.dpm
+Sunday 09/13/15 22:20:47: 2015-07-23.dpm
+Sunday 09/13/15 22:20:47: 2015-07-24.dpm
+Sunday 09/13/15 22:20:47: 2015-07-25.dpm
+Sunday 09/13/15 22:20:47: 2015-07-26.dpm
+Sunday 09/13/15 22:20:47: 2015-07-27.dpm
+Sunday 09/13/15 22:20:47: 2015-07-28.dpm
+Sunday 09/13/15 22:20:47: 2015-07-29.dpm
+Sunday 09/13/15 22:20:47: 2015-07-30.dpm
+Sunday 09/13/15 22:20:47: 2015-07-31.dpm
+Sunday 09/13/15 22:20:48: Подключаемся к БД 
+
+Sunday 09/13/15 22:20:48: читаем алиасы
+Sunday 09/13/15 22:20:48: D:\\tnvdata\\Aliases.ini
+Sunday 09/13/15 22:20:48: Alias0=Тестовый*\\Digiton_server\TNV_RADIO\BIG_BASE\POLNAYA_BAZA\
+Sunday 09/13/15 22:20:48: Alias1=джинглы*\\Digiton_server\TNV_RADIO\JINGL'S\
+Sunday 09/13/15 22:20:48: Alias2=реклама*\\Digiton_server\TNV_RADIO\RECLAMA\
+Sunday 09/13/15 22:20:48: Alias3=TNV-for-Efir*\\Digiton_server\TNV_RADIO\TNV-for-Efir\
+Sunday 09/13/15 22:20:48: Alias4=NEWS*\\Digiton_server\tnv_radio\NEWS\
+Sunday 09/13/15 22:20:48: Alias5=PROGRAMS*\\Digiton_server\tnv_radio\PROGRAMS\
+Sunday 09/13/15 22:20:48: Alias6=ROTACIA*\\Digiton_server\tnv_radio\ROTACIA\
+Sunday 09/13/15 22:20:48: Alias7=BIG_BASE*\\Digiton_server\TNV_RADIO\BIG_BASE\
+Sunday 09/13/15 22:20:48: Alias8=ATM*\\Digiton_server\tnv_radio\ATM\
+Sunday 09/13/15 22:20:48: Alias9=region1_chelni_nizhnekamsk*\\MERLIN\region\region1_chelni_nizhnekamsk\audio\region1_chelni_nizhnekamsk\
+Sunday 09/13/15 22:20:48: Alias10=region2_leninogorsk_almetevsk*\\MERLIN\region\region2_leninogorsk_almetevsk\audio\region2_leninogorsk_almetevsk\
+Sunday 09/13/15 22:20:48: Update Aliaces
+Sunday 09/13/15 22:20:52: открываем файл для чтения
+Sunday 09/13/15 22:20:52: D:\tnvdata\2015-07-01.dpm
+Sunday 09/13/15 22:21:48: открываем файл для чтения
+Sunday 09/13/15 22:21:48: D:\tnvdata\2015-07-02.dpm
+Sunday 09/13/15 22:24:04: открываем файл для чтения
+Sunday 09/13/15 22:24:04: D:\tnvdata\2015-07-03.dpm
+Sunday 09/13/15 22:26:51: Читаем connection.txt
+Sunday 09/13/15 22:26:51: Настройки подключения к БД host, user, password, database, port, unix_socket, clientflag 
+Sunday 09/13/15 22:26:51: localhost
+Sunday 09/13/15 22:26:51: admin
+Sunday 09/13/15 22:26:51: admin
+Sunday 09/13/15 22:26:51: cpp_data
+Sunday 09/13/15 22:26:51: 3306
+Sunday 09/13/15 22:26:51: 0
+Sunday 09/13/15 22:26:51: 0
+Sunday 09/13/15 22:26:51: Настройки расположения файлов  dpm_filepath, dpm_filename, aliase_patch
+Sunday 09/13/15 22:26:51: D:\tnvdata\
+Sunday 09/13/15 22:26:51: *.dpm
+Sunday 09/13/15 22:26:51: D:\\tnvdata\\
+Sunday 09/13/15 22:26:51: Ищем файлы в директории
+Sunday 09/13/15 22:26:51: 2015-07-01.dpm
+Sunday 09/13/15 22:26:51: 2015-07-02.dpm
+Sunday 09/13/15 22:26:51: 2015-07-03.dpm
+Sunday 09/13/15 22:26:51: 2015-07-04.dpm
+Sunday 09/13/15 22:26:51: 2015-07-05.dpm
+Sunday 09/13/15 22:26:51: 2015-07-06.dpm
+Sunday 09/13/15 22:26:51: 2015-07-07.dpm
+Sunday 09/13/15 22:26:51: 2015-07-08.dpm
+Sunday 09/13/15 22:26:51: 2015-07-09.dpm
+Sunday 09/13/15 22:26:51: 2015-07-10.dpm
+Sunday 09/13/15 22:26:51: 2015-07-11.dpm
+Sunday 09/13/15 22:26:51: 2015-07-12.dpm
+Sunday 09/13/15 22:26:51: 2015-07-13.dpm
+Sunday 09/13/15 22:26:51: 2015-07-14.dpm
+Sunday 09/13/15 22:26:51: 2015-07-15.dpm
+Sunday 09/13/15 22:26:51: 2015-07-16.dpm
+Sunday 09/13/15 22:26:51: 2015-07-17.dpm
+Sunday 09/13/15 22:26:51: 2015-07-18.dpm
+Sunday 09/13/15 22:26:51: 2015-07-19.dpm
+Sunday 09/13/15 22:26:51: 2015-07-20.dpm
+Sunday 09/13/15 22:26:51: 2015-07-21.dpm
+Sunday 09/13/15 22:26:51: 2015-07-22.dpm
+Sunday 09/13/15 22:26:51: 2015-07-23.dpm
+Sunday 09/13/15 22:26:51: 2015-07-24.dpm
+Sunday 09/13/15 22:26:51: 2015-07-25.dpm
+Sunday 09/13/15 22:26:51: 2015-07-26.dpm
+Sunday 09/13/15 22:26:51: 2015-07-27.dpm
+Sunday 09/13/15 22:26:51: 2015-07-28.dpm
+Sunday 09/13/15 22:26:51: 2015-07-29.dpm
+Sunday 09/13/15 22:26:51: 2015-07-30.dpm
+Sunday 09/13/15 22:26:51: 2015-07-31.dpm
+Sunday 09/13/15 22:26:51: Подключаемся к БД 
+
+Sunday 09/13/15 22:26:51: читаем алиасы
+Sunday 09/13/15 22:26:51: D:\\tnvdata\\Aliases.ini
+Sunday 09/13/15 22:26:51: Alias0=Тестовый*\\Digiton_server\TNV_RADIO\BIG_BASE\POLNAYA_BAZA\
+Sunday 09/13/15 22:26:51: Alias1=джинглы*\\Digiton_server\TNV_RADIO\JINGL'S\
+Sunday 09/13/15 22:26:51: Alias2=реклама*\\Digiton_server\TNV_RADIO\RECLAMA\
+Sunday 09/13/15 22:26:51: Alias3=TNV-for-Efir*\\Digiton_server\TNV_RADIO\TNV-for-Efir\
+Sunday 09/13/15 22:26:51: Alias4=NEWS*\\Digiton_server\tnv_radio\NEWS\
+Sunday 09/13/15 22:26:51: Alias5=PROGRAMS*\\Digiton_server\tnv_radio\PROGRAMS\
+Sunday 09/13/15 22:26:51: Alias6=ROTACIA*\\Digiton_server\tnv_radio\ROTACIA\
+Sunday 09/13/15 22:26:51: Alias7=BIG_BASE*\\Digiton_server\TNV_RADIO\BIG_BASE\
+Sunday 09/13/15 22:26:51: Alias8=ATM*\\Digiton_server\tnv_radio\ATM\
+Sunday 09/13/15 22:26:51: Alias9=region1_chelni_nizhnekamsk*\\MERLIN\region\region1_chelni_nizhnekamsk\audio\region1_chelni_nizhnekamsk\
+Sunday 09/13/15 22:26:51: Alias10=region2_leninogorsk_almetevsk*\\MERLIN\region\region2_leninogorsk_almetevsk\audio\region2_leninogorsk_almetevsk\
+Sunday 09/13/15 22:26:51: Update Aliaces
+Sunday 09/13/15 22:26:57: открываем файл для чтения
+Sunday 09/13/15 22:26:57: D:\tnvdata\2015-07-01.dpm
+Sunday 09/13/15 22:28:02: Читаем connection.txt
+Sunday 09/13/15 22:28:03: Настройки подключения к БД host, user, password, database, port, unix_socket, clientflag 
+Sunday 09/13/15 22:28:03: localhost
+Sunday 09/13/15 22:28:03: admin
+Sunday 09/13/15 22:28:03: admin
+Sunday 09/13/15 22:28:03: cpp_data
+Sunday 09/13/15 22:28:03: 3306
+Sunday 09/13/15 22:28:03: 0
+Sunday 09/13/15 22:28:03: 0
+Sunday 09/13/15 22:28:03: Настройки расположения файлов  dpm_filepath, dpm_filename, aliase_patch
+Sunday 09/13/15 22:28:03: D:\tnvdata\
+Sunday 09/13/15 22:28:03: *.dpm
+Sunday 09/13/15 22:28:03: D:\\tnvdata\\
+Sunday 09/13/15 22:28:03: Ищем файлы в директории
+Sunday 09/13/15 22:28:03: 2015-07-01.dpm
+Sunday 09/13/15 22:28:03: 2015-07-02.dpm
+Sunday 09/13/15 22:28:03: 2015-07-03.dpm
+Sunday 09/13/15 22:28:03: 2015-07-04.dpm
+Sunday 09/13/15 22:28:03: 2015-07-05.dpm
+Sunday 09/13/15 22:28:03: 2015-07-06.dpm
+Sunday 09/13/15 22:28:03: 2015-07-07.dpm
+Sunday 09/13/15 22:28:03: 2015-07-08.dpm
+Sunday 09/13/15 22:28:03: 2015-07-09.dpm
+Sunday 09/13/15 22:28:03: 2015-07-10.dpm
+Sunday 09/13/15 22:28:03: 2015-07-11.dpm
+Sunday 09/13/15 22:28:03: 2015-07-12.dpm
+Sunday 09/13/15 22:28:03: 2015-07-13.dpm
+Sunday 09/13/15 22:28:03: 2015-07-14.dpm
+Sunday 09/13/15 22:28:03: 2015-07-15.dpm
+Sunday 09/13/15 22:28:03: 2015-07-16.dpm
+Sunday 09/13/15 22:28:03: 2015-07-17.dpm
+Sunday 09/13/15 22:28:03: 2015-07-18.dpm
+Sunday 09/13/15 22:28:03: 2015-07-19.dpm
+Sunday 09/13/15 22:28:03: 2015-07-20.dpm
+Sunday 09/13/15 22:28:03: 2015-07-21.dpm
+Sunday 09/13/15 22:28:03: 2015-07-22.dpm
+Sunday 09/13/15 22:28:03: 2015-07-23.dpm
+Sunday 09/13/15 22:28:03: 2015-07-24.dpm
+Sunday 09/13/15 22:28:03: 2015-07-25.dpm
+Sunday 09/13/15 22:28:03: 2015-07-26.dpm
+Sunday 09/13/15 22:28:03: 2015-07-27.dpm
+Sunday 09/13/15 22:28:03: 2015-07-28.dpm
+Sunday 09/13/15 22:28:03: 2015-07-29.dpm
+Sunday 09/13/15 22:28:03: 2015-07-30.dpm
+Sunday 09/13/15 22:28:03: 2015-07-31.dpm
+Sunday 09/13/15 22:28:03: Подключаемся к БД 
+
+Sunday 09/13/15 22:28:03: читаем алиасы
+Sunday 09/13/15 22:28:03: D:\\tnvdata\\Aliases.ini
+Sunday 09/13/15 22:28:03: Alias0=Тестовый*\\Digiton_server\TNV_RADIO\BIG_BASE\POLNAYA_BAZA\
+Sunday 09/13/15 22:28:03: Alias1=джинглы*\\Digiton_server\TNV_RADIO\JINGL'S\
+Sunday 09/13/15 22:28:03: Alias2=реклама*\\Digiton_server\TNV_RADIO\RECLAMA\
+Sunday 09/13/15 22:28:03: Alias3=TNV-for-Efir*\\Digiton_server\TNV_RADIO\TNV-for-Efir\
+Sunday 09/13/15 22:28:03: Alias4=NEWS*\\Digiton_server\tnv_radio\NEWS\
+Sunday 09/13/15 22:28:03: Alias5=PROGRAMS*\\Digiton_server\tnv_radio\PROGRAMS\
+Sunday 09/13/15 22:28:03: Alias6=ROTACIA*\\Digiton_server\tnv_radio\ROTACIA\
+Sunday 09/13/15 22:28:03: Alias7=BIG_BASE*\\Digiton_server\TNV_RADIO\BIG_BASE\
+Sunday 09/13/15 22:28:03: Alias8=ATM*\\Digiton_server\tnv_radio\ATM\
+Sunday 09/13/15 22:28:03: Alias9=region1_chelni_nizhnekamsk*\\MERLIN\region\region1_chelni_nizhnekamsk\audio\region1_chelni_nizhnekamsk\
+Sunday 09/13/15 22:28:03: Alias10=region2_leninogorsk_almetevsk*\\MERLIN\region\region2_leninogorsk_almetevsk\audio\region2_leninogorsk_almetevsk\
+Sunday 09/13/15 22:28:03: Update Aliaces
+Sunday 09/13/15 22:28:06: открываем файл для чтения
+Sunday 09/13/15 22:28:06: D:\tnvdata\2015-07-01.dpm
+Sunday 09/13/15 22:29:00: открываем файл для чтения
+Sunday 09/13/15 22:29:00: D:\tnvdata\2015-07-02.dpm
+Sunday 09/13/15 22:31:31: открываем файл для чтения
+Sunday 09/13/15 22:31:31: D:\tnvdata\2015-07-03.dpm
+Sunday 09/13/15 22:33:21: Читаем connection.txt
+Sunday 09/13/15 22:33:21: Настройки подключения к БД host, user, password, database, port, unix_socket, clientflag 
+Sunday 09/13/15 22:33:21: localhost
+Sunday 09/13/15 22:33:21: admin
+Sunday 09/13/15 22:33:21: admin
+Sunday 09/13/15 22:33:21: cpp_data
+Sunday 09/13/15 22:33:21: 3306
+Sunday 09/13/15 22:33:21: 0
+Sunday 09/13/15 22:33:21: 0
+Sunday 09/13/15 22:33:21: Настройки расположения файлов  dpm_filepath, dpm_filename, aliase_patch
+Sunday 09/13/15 22:33:21: D:\tnvdata\
+Sunday 09/13/15 22:33:21: *.dpm
+Sunday 09/13/15 22:33:21: D:\\tnvdata\\
+Sunday 09/13/15 22:33:21: Ищем файлы в директории
+Sunday 09/13/15 22:33:21: 2015-07-01.dpm
+Sunday 09/13/15 22:33:21: 2015-07-02.dpm
+Sunday 09/13/15 22:33:21: 2015-07-03.dpm
+Sunday 09/13/15 22:33:21: 2015-07-04.dpm
+Sunday 09/13/15 22:33:21: 2015-07-05.dpm
+Sunday 09/13/15 22:33:21: 2015-07-06.dpm
+Sunday 09/13/15 22:33:21: 2015-07-07.dpm
+Sunday 09/13/15 22:33:21: 2015-07-08.dpm
+Sunday 09/13/15 22:33:21: 2015-07-09.dpm
+Sunday 09/13/15 22:33:21: 2015-07-10.dpm
+Sunday 09/13/15 22:33:21: 2015-07-11.dpm
+Sunday 09/13/15 22:33:21: 2015-07-12.dpm
+Sunday 09/13/15 22:33:21: 2015-07-13.dpm
+Sunday 09/13/15 22:33:21: 2015-07-14.dpm
+Sunday 09/13/15 22:33:21: 2015-07-15.dpm
+Sunday 09/13/15 22:33:21: 2015-07-16.dpm
+Sunday 09/13/15 22:33:21: 2015-07-17.dpm
+Sunday 09/13/15 22:33:21: 2015-07-18.dpm
+Sunday 09/13/15 22:33:21: 2015-07-19.dpm
+Sunday 09/13/15 22:33:21: 2015-07-20.dpm
+Sunday 09/13/15 22:33:21: 2015-07-21.dpm
+Sunday 09/13/15 22:33:21: 2015-07-22.dpm
+Sunday 09/13/15 22:33:21: 2015-07-23.dpm
+Sunday 09/13/15 22:33:21: 2015-07-24.dpm
+Sunday 09/13/15 22:33:21: 2015-07-25.dpm
+Sunday 09/13/15 22:33:21: 2015-07-26.dpm
+Sunday 09/13/15 22:33:21: 2015-07-27.dpm
+Sunday 09/13/15 22:33:21: 2015-07-28.dpm
+Sunday 09/13/15 22:33:21: 2015-07-29.dpm
+Sunday 09/13/15 22:33:21: 2015-07-30.dpm
+Sunday 09/13/15 22:33:21: 2015-07-31.dpm
+Sunday 09/13/15 22:33:21: Подключаемся к БД 
+
+Sunday 09/13/15 22:33:21: читаем алиасы
+Sunday 09/13/15 22:33:21: D:\\tnvdata\\Aliases.ini
+Sunday 09/13/15 22:33:21: Alias0=Тестовый*\\Digiton_server\TNV_RADIO\BIG_BASE\POLNAYA_BAZA\
+Sunday 09/13/15 22:33:21: Alias1=джинглы*\\Digiton_server\TNV_RADIO\JINGL'S\
+Sunday 09/13/15 22:33:21: Alias2=реклама*\\Digiton_server\TNV_RADIO\RECLAMA\
+Sunday 09/13/15 22:33:21: Alias3=TNV-for-Efir*\\Digiton_server\TNV_RADIO\TNV-for-Efir\
+Sunday 09/13/15 22:33:21: Alias4=NEWS*\\Digiton_server\tnv_radio\NEWS\
+Sunday 09/13/15 22:33:21: Alias5=PROGRAMS*\\Digiton_server\tnv_radio\PROGRAMS\
+Sunday 09/13/15 22:33:21: Alias6=ROTACIA*\\Digiton_server\tnv_radio\ROTACIA\
+Sunday 09/13/15 22:33:21: Alias7=BIG_BASE*\\Digiton_server\TNV_RADIO\BIG_BASE\
+Sunday 09/13/15 22:33:21: Alias8=ATM*\\Digiton_server\tnv_radio\ATM\
+Sunday 09/13/15 22:33:21: Alias9=region1_chelni_nizhnekamsk*\\MERLIN\region\region1_chelni_nizhnekamsk\audio\region1_chelni_nizhnekamsk\
+Sunday 09/13/15 22:33:21: Alias10=region2_leninogorsk_almetevsk*\\MERLIN\region\region2_leninogorsk_almetevsk\audio\region2_leninogorsk_almetevsk\
+Sunday 09/13/15 22:33:21: Update Aliaces
+Sunday 09/13/15 22:33:26: открываем файл для чтения
+Sunday 09/13/15 22:33:26: D:\tnvdata\2015-07-01.dpm
+Sunday 09/13/15 22:34:50: открываем файл для чтения
+Sunday 09/13/15 22:34:50: D:\tnvdata\2015-07-02.dpm
+Sunday 09/13/15 22:37:29: Читаем connection.txt
+Sunday 09/13/15 22:37:29: Настройки подключения к БД host, user, password, database, port, unix_socket, clientflag 
+Sunday 09/13/15 22:37:29: localhost
+Sunday 09/13/15 22:37:29: admin
+Sunday 09/13/15 22:37:29: admin
+Sunday 09/13/15 22:37:29: cpp_data
+Sunday 09/13/15 22:37:29: 3306
+Sunday 09/13/15 22:37:29: 0
+Sunday 09/13/15 22:37:29: 0
+Sunday 09/13/15 22:37:29: Настройки расположения файлов  dpm_filepath, dpm_filename, aliase_patch
+Sunday 09/13/15 22:37:29: D:\tnvdata\
+Sunday 09/13/15 22:37:29: *.dpm
+Sunday 09/13/15 22:37:29: D:\\tnvdata\\
+Sunday 09/13/15 22:37:29: Ищем файлы в директории
+Sunday 09/13/15 22:37:29: 2015-07-01.dpm
+Sunday 09/13/15 22:37:29: 2015-07-02.dpm
+Sunday 09/13/15 22:37:29: 2015-07-03.dpm
+Sunday 09/13/15 22:37:29: 2015-07-04.dpm
+Sunday 09/13/15 22:37:29: 2015-07-05.dpm
+Sunday 09/13/15 22:37:29: 2015-07-06.dpm
+Sunday 09/13/15 22:37:29: 2015-07-07.dpm
+Sunday 09/13/15 22:37:29: 2015-07-08.dpm
+Sunday 09/13/15 22:37:29: 2015-07-09.dpm
+Sunday 09/13/15 22:37:29: 2015-07-10.dpm
+Sunday 09/13/15 22:37:29: 2015-07-11.dpm
+Sunday 09/13/15 22:37:29: 2015-07-12.dpm
+Sunday 09/13/15 22:37:29: 2015-07-13.dpm
+Sunday 09/13/15 22:37:29: 2015-07-14.dpm
+Sunday 09/13/15 22:37:29: 2015-07-15.dpm
+Sunday 09/13/15 22:37:29: 2015-07-16.dpm
+Sunday 09/13/15 22:37:29: 2015-07-17.dpm
+Sunday 09/13/15 22:37:29: 2015-07-18.dpm
+Sunday 09/13/15 22:37:29: 2015-07-19.dpm
+Sunday 09/13/15 22:37:29: 2015-07-20.dpm
+Sunday 09/13/15 22:37:29: 2015-07-21.dpm
+Sunday 09/13/15 22:37:29: 2015-07-22.dpm
+Sunday 09/13/15 22:37:29: 2015-07-23.dpm
+Sunday 09/13/15 22:37:29: 2015-07-24.dpm
+Sunday 09/13/15 22:37:29: 2015-07-25.dpm
+Sunday 09/13/15 22:37:29: 2015-07-26.dpm
+Sunday 09/13/15 22:37:29: 2015-07-27.dpm
+Sunday 09/13/15 22:37:29: 2015-07-28.dpm
+Sunday 09/13/15 22:37:29: 2015-07-29.dpm
+Sunday 09/13/15 22:37:29: 2015-07-30.dpm
+Sunday 09/13/15 22:37:29: 2015-07-31.dpm
+Sunday 09/13/15 22:37:29: Подключаемся к БД 
+
+Sunday 09/13/15 22:37:29: читаем алиасы
+Sunday 09/13/15 22:37:29: D:\\tnvdata\\Aliases.ini
+Sunday 09/13/15 22:37:29: Alias0=Тестовый*\\Digiton_server\TNV_RADIO\BIG_BASE\POLNAYA_BAZA\
+Sunday 09/13/15 22:37:29: Alias1=джинглы*\\Digiton_server\TNV_RADIO\JINGL'S\
+Sunday 09/13/15 22:37:29: Alias2=реклама*\\Digiton_server\TNV_RADIO\RECLAMA\
+Sunday 09/13/15 22:37:29: Alias3=TNV-for-Efir*\\Digiton_server\TNV_RADIO\TNV-for-Efir\
+Sunday 09/13/15 22:37:29: Alias4=NEWS*\\Digiton_server\tnv_radio\NEWS\
+Sunday 09/13/15 22:37:29: Alias5=PROGRAMS*\\Digiton_server\tnv_radio\PROGRAMS\
+Sunday 09/13/15 22:37:29: Alias6=ROTACIA*\\Digiton_server\tnv_radio\ROTACIA\
+Sunday 09/13/15 22:37:29: Alias7=BIG_BASE*\\Digiton_server\TNV_RADIO\BIG_BASE\
+Sunday 09/13/15 22:37:29: Alias8=ATM*\\Digiton_server\tnv_radio\ATM\
+Sunday 09/13/15 22:37:29: Alias9=region1_chelni_nizhnekamsk*\\MERLIN\region\region1_chelni_nizhnekamsk\audio\region1_chelni_nizhnekamsk\
+Sunday 09/13/15 22:37:29: Alias10=region2_leninogorsk_almetevsk*\\MERLIN\region\region2_leninogorsk_almetevsk\audio\region2_leninogorsk_almetevsk\
+Sunday 09/13/15 22:37:29: Update Aliaces
+Sunday 09/13/15 22:37:32: открываем файл для чтения
+Sunday 09/13/15 22:37:32: D:\tnvdata\2015-07-01.dpm
+Sunday 09/13/15 22:39:23: открываем файл для чтения
+Sunday 09/13/15 22:39:23: D:\tnvdata\2015-07-02.dpm
+Sunday 09/13/15 22:45:32: открываем файл для чтения
+Sunday 09/13/15 22:45:32: D:\tnvdata\2015-07-03.dpm
+Sunday 09/13/15 22:46:14: открываем файл для чтения
+Sunday 09/13/15 22:46:14: D:\tnvdata\2015-07-04.dpm
+Sunday 09/13/15 22:47:09: Читаем connection.txt
+Sunday 09/13/15 22:47:09: Настройки подключения к БД host, user, password, database, port, unix_socket, clientflag 
+Sunday 09/13/15 22:47:09: localhost
+Sunday 09/13/15 22:47:09: admin
+Sunday 09/13/15 22:47:09: admin
+Sunday 09/13/15 22:47:09: cpp_data
+Sunday 09/13/15 22:47:09: 3306
+Sunday 09/13/15 22:47:09: 0
+Sunday 09/13/15 22:47:09: 0
+Sunday 09/13/15 22:47:09: Настройки расположения файлов  dpm_filepath, dpm_filename, aliase_patch
+Sunday 09/13/15 22:47:09: D:\tnvdata\
+Sunday 09/13/15 22:47:09: *.dpm
+Sunday 09/13/15 22:47:09: D:\\tnvdata\\
+Sunday 09/13/15 22:47:09: Ищем файлы в директории
+Sunday 09/13/15 22:47:09: 2015-07-01.dpm
+Sunday 09/13/15 22:47:09: 2015-07-02.dpm
+Sunday 09/13/15 22:47:09: 2015-07-03.dpm
+Sunday 09/13/15 22:47:09: 2015-07-04.dpm
+Sunday 09/13/15 22:47:09: 2015-07-05.dpm
+Sunday 09/13/15 22:47:09: 2015-07-06.dpm
+Sunday 09/13/15 22:47:09: 2015-07-07.dpm
+Sunday 09/13/15 22:47:09: 2015-07-08.dpm
+Sunday 09/13/15 22:47:09: 2015-07-09.dpm
+Sunday 09/13/15 22:47:09: 2015-07-10.dpm
+Sunday 09/13/15 22:47:09: 2015-07-11.dpm
+Sunday 09/13/15 22:47:09: 2015-07-12.dpm
+Sunday 09/13/15 22:47:09: 2015-07-13.dpm
+Sunday 09/13/15 22:47:09: 2015-07-14.dpm
+Sunday 09/13/15 22:47:09: 2015-07-15.dpm
+Sunday 09/13/15 22:47:09: 2015-07-16.dpm
+Sunday 09/13/15 22:47:09: 2015-07-17.dpm
+Sunday 09/13/15 22:47:09: 2015-07-18.dpm
+Sunday 09/13/15 22:47:09: 2015-07-19.dpm
+Sunday 09/13/15 22:47:09: 2015-07-20.dpm
+Sunday 09/13/15 22:47:09: 2015-07-21.dpm
+Sunday 09/13/15 22:47:09: 2015-07-22.dpm
+Sunday 09/13/15 22:47:09: 2015-07-23.dpm
+Sunday 09/13/15 22:47:09: 2015-07-24.dpm
+Sunday 09/13/15 22:47:09: 2015-07-25.dpm
+Sunday 09/13/15 22:47:09: 2015-07-26.dpm
+Sunday 09/13/15 22:47:09: 2015-07-27.dpm
+Sunday 09/13/15 22:47:09: 2015-07-28.dpm
+Sunday 09/13/15 22:47:09: 2015-07-29.dpm
+Sunday 09/13/15 22:47:09: 2015-07-30.dpm
+Sunday 09/13/15 22:47:09: 2015-07-31.dpm
+Sunday 09/13/15 22:47:10: Подключаемся к БД 
+
+Sunday 09/13/15 22:47:10: читаем алиасы
+Sunday 09/13/15 22:47:10: D:\\tnvdata\\Aliases.ini
+Sunday 09/13/15 22:47:10: Alias0=Тестовый*\\Digiton_server\TNV_RADIO\BIG_BASE\POLNAYA_BAZA\
+Sunday 09/13/15 22:47:10: Alias1=джинглы*\\Digiton_server\TNV_RADIO\JINGL'S\
+Sunday 09/13/15 22:47:10: Alias2=реклама*\\Digiton_server\TNV_RADIO\RECLAMA\
+Sunday 09/13/15 22:47:10: Alias3=TNV-for-Efir*\\Digiton_server\TNV_RADIO\TNV-for-Efir\
+Sunday 09/13/15 22:47:10: Alias4=NEWS*\\Digiton_server\tnv_radio\NEWS\
+Sunday 09/13/15 22:47:10: Alias5=PROGRAMS*\\Digiton_server\tnv_radio\PROGRAMS\
+Sunday 09/13/15 22:47:10: Alias6=ROTACIA*\\Digiton_server\tnv_radio\ROTACIA\
+Sunday 09/13/15 22:47:10: Alias7=BIG_BASE*\\Digiton_server\TNV_RADIO\BIG_BASE\
+Sunday 09/13/15 22:47:10: Alias8=ATM*\\Digiton_server\tnv_radio\ATM\
+Sunday 09/13/15 22:47:10: Alias9=region1_chelni_nizhnekamsk*\\MERLIN\region\region1_chelni_nizhnekamsk\audio\region1_chelni_nizhnekamsk\
+Sunday 09/13/15 22:47:10: Alias10=region2_leninogorsk_almetevsk*\\MERLIN\region\region2_leninogorsk_almetevsk\audio\region2_leninogorsk_almetevsk\
+Sunday 09/13/15 22:47:10: Update Aliaces
+Sunday 09/13/15 22:47:14: открываем файл для чтения
+Sunday 09/13/15 22:47:14: D:\tnvdata\2015-07-01.dpm
+Sunday 09/13/15 22:47:53: открываем файл для чтения
+Sunday 09/13/15 22:47:53: D:\tnvdata\2015-07-02.dpm
+Sunday 09/13/15 22:48:58: открываем файл для чтения
+Sunday 09/13/15 22:48:58: D:\tnvdata\2015-07-03.dpm
+Sunday 09/13/15 22:50:50: открываем файл для чтения
+Sunday 09/13/15 22:50:50: D:\tnvdata\2015-07-04.dpm
+Sunday 09/13/15 22:52:13: открываем файл для чтения
+Sunday 09/13/15 22:52:13: D:\tnvdata\2015-07-05.dpm
+Sunday 09/13/15 22:53:37: открываем файл для чтения
+Sunday 09/13/15 22:53:37: D:\tnvdata\2015-07-06.dpm
+Sunday 09/13/15 22:54:58: открываем файл для чтения
+Sunday 09/13/15 22:54:58: D:\tnvdata\2015-07-07.dpm
+Sunday 09/13/15 22:55:40: Читаем connection.txt
+Sunday 09/13/15 22:55:40: Настройки подключения к БД host, user, password, database, port, unix_socket, clientflag 
+Sunday 09/13/15 22:55:40: localhost
+Sunday 09/13/15 22:55:40: admin
+Sunday 09/13/15 22:55:40: admin
+Sunday 09/13/15 22:55:40: cpp_data
+Sunday 09/13/15 22:55:40: 3306
+Sunday 09/13/15 22:55:40: 0
+Sunday 09/13/15 22:55:40: 0
+Sunday 09/13/15 22:55:40: Настройки расположения файлов  dpm_filepath, dpm_filename, aliase_patch
+Sunday 09/13/15 22:55:40: D:\tnvdata\
+Sunday 09/13/15 22:55:40: *.dpm
+Sunday 09/13/15 22:55:40: D:\\tnvdata\\
+Sunday 09/13/15 22:55:40: Ищем файлы в директории
+Sunday 09/13/15 22:55:40: 2015-07-01.dpm
+Sunday 09/13/15 22:55:40: 2015-07-02.dpm
+Sunday 09/13/15 22:55:40: 2015-07-03.dpm
+Sunday 09/13/15 22:55:40: 2015-07-04.dpm
+Sunday 09/13/15 22:55:40: 2015-07-05.dpm
+Sunday 09/13/15 22:55:40: 2015-07-06.dpm
+Sunday 09/13/15 22:55:40: 2015-07-07.dpm
+Sunday 09/13/15 22:55:40: 2015-07-08.dpm
+Sunday 09/13/15 22:55:40: 2015-07-09.dpm
+Sunday 09/13/15 22:55:40: 2015-07-10.dpm
+Sunday 09/13/15 22:55:40: 2015-07-11.dpm
+Sunday 09/13/15 22:55:40: 2015-07-12.dpm
+Sunday 09/13/15 22:55:40: 2015-07-13.dpm
+Sunday 09/13/15 22:55:40: 2015-07-14.dpm
+Sunday 09/13/15 22:55:40: 2015-07-15.dpm
+Sunday 09/13/15 22:55:40: 2015-07-16.dpm
+Sunday 09/13/15 22:55:40: 2015-07-17.dpm
+Sunday 09/13/15 22:55:40: 2015-07-18.dpm
+Sunday 09/13/15 22:55:40: 2015-07-19.dpm
+Sunday 09/13/15 22:55:40: 2015-07-20.dpm
+Sunday 09/13/15 22:55:40: 2015-07-21.dpm
+Sunday 09/13/15 22:55:40: 2015-07-22.dpm
+Sunday 09/13/15 22:55:40: 2015-07-23.dpm
+Sunday 09/13/15 22:55:40: 2015-07-24.dpm
+Sunday 09/13/15 22:55:40: 2015-07-25.dpm
+Sunday 09/13/15 22:55:40: 2015-07-26.dpm
+Sunday 09/13/15 22:55:40: 2015-07-27.dpm
+Sunday 09/13/15 22:55:40: 2015-07-28.dpm
+Sunday 09/13/15 22:55:40: 2015-07-29.dpm
+Sunday 09/13/15 22:55:40: 2015-07-30.dpm
+Sunday 09/13/15 22:55:40: 2015-07-31.dpm
+Sunday 09/13/15 22:55:40: Подключаемся к БД 
+
+Sunday 09/13/15 22:55:40: читаем алиасы
+Sunday 09/13/15 22:55:40: D:\\tnvdata\\Aliases.ini
+Sunday 09/13/15 22:55:40: Alias0=Тестовый*\\Digiton_server\TNV_RADIO\BIG_BASE\POLNAYA_BAZA\
+Sunday 09/13/15 22:55:40: Alias1=джинглы*\\Digiton_server\TNV_RADIO\JINGL'S\
+Sunday 09/13/15 22:55:40: Alias2=реклама*\\Digiton_server\TNV_RADIO\RECLAMA\
+Sunday 09/13/15 22:55:40: Alias3=TNV-for-Efir*\\Digiton_server\TNV_RADIO\TNV-for-Efir\
+Sunday 09/13/15 22:55:40: Alias4=NEWS*\\Digiton_server\tnv_radio\NEWS\
+Sunday 09/13/15 22:55:40: Alias5=PROGRAMS*\\Digiton_server\tnv_radio\PROGRAMS\
+Sunday 09/13/15 22:55:40: Alias6=ROTACIA*\\Digiton_server\tnv_radio\ROTACIA\
+Sunday 09/13/15 22:55:40: Alias7=BIG_BASE*\\Digiton_server\TNV_RADIO\BIG_BASE\
+Sunday 09/13/15 22:55:40: Alias8=ATM*\\Digiton_server\tnv_radio\ATM\
+Sunday 09/13/15 22:55:40: Alias9=region1_chelni_nizhnekamsk*\\MERLIN\region\region1_chelni_nizhnekamsk\audio\region1_chelni_nizhnekamsk\
+Sunday 09/13/15 22:55:40: Alias10=region2_leninogorsk_almetevsk*\\MERLIN\region\region2_leninogorsk_almetevsk\audio\region2_leninogorsk_almetevsk\
+Sunday 09/13/15 22:55:40: Update Aliaces
+Sunday 09/13/15 22:55:41: открываем файл для чтения
+Sunday 09/13/15 22:55:41: D:\tnvdata\2015-07-01.dpm
+Sunday 09/13/15 22:56:08: Читаем connection.txt
+Sunday 09/13/15 22:56:08: Настройки подключения к БД host, user, password, database, port, unix_socket, clientflag 
+Sunday 09/13/15 22:56:08: localhost
+Sunday 09/13/15 22:56:08: admin
+Sunday 09/13/15 22:56:08: admin
+Sunday 09/13/15 22:56:08: cpp_data
+Sunday 09/13/15 22:56:08: 3306
+Sunday 09/13/15 22:56:08: 0
+Sunday 09/13/15 22:56:08: 0
+Sunday 09/13/15 22:56:08: Настройки расположения файлов  dpm_filepath, dpm_filename, aliase_patch
+Sunday 09/13/15 22:56:08: D:\tnvdata\
+Sunday 09/13/15 22:56:08: *.dpm
+Sunday 09/13/15 22:56:08: D:\\tnvdata\\
+Sunday 09/13/15 22:56:08: Ищем файлы в директории
+Sunday 09/13/15 22:56:08: 2015-07-01.dpm
+Sunday 09/13/15 22:56:08: 2015-07-02.dpm
+Sunday 09/13/15 22:56:08: 2015-07-03.dpm
+Sunday 09/13/15 22:56:08: 2015-07-04.dpm
+Sunday 09/13/15 22:56:08: 2015-07-05.dpm
+Sunday 09/13/15 22:56:08: 2015-07-06.dpm
+Sunday 09/13/15 22:56:08: 2015-07-07.dpm
+Sunday 09/13/15 22:56:08: 2015-07-08.dpm
+Sunday 09/13/15 22:56:08: 2015-07-09.dpm
+Sunday 09/13/15 22:56:08: 2015-07-10.dpm
+Sunday 09/13/15 22:56:08: 2015-07-11.dpm
+Sunday 09/13/15 22:56:08: 2015-07-12.dpm
+Sunday 09/13/15 22:56:08: 2015-07-13.dpm
+Sunday 09/13/15 22:56:08: 2015-07-14.dpm
+Sunday 09/13/15 22:56:08: 2015-07-15.dpm
+Sunday 09/13/15 22:56:08: 2015-07-16.dpm
+Sunday 09/13/15 22:56:08: 2015-07-17.dpm
+Sunday 09/13/15 22:56:08: 2015-07-18.dpm
+Sunday 09/13/15 22:56:08: 2015-07-19.dpm
+Sunday 09/13/15 22:56:08: 2015-07-20.dpm
+Sunday 09/13/15 22:56:08: 2015-07-21.dpm
+Sunday 09/13/15 22:56:08: 2015-07-22.dpm
+Sunday 09/13/15 22:56:08: 2015-07-23.dpm
+Sunday 09/13/15 22:56:08: 2015-07-24.dpm
+Sunday 09/13/15 22:56:08: 2015-07-25.dpm
+Sunday 09/13/15 22:56:08: 2015-07-26.dpm
+Sunday 09/13/15 22:56:08: 2015-07-27.dpm
+Sunday 09/13/15 22:56:08: 2015-07-28.dpm
+Sunday 09/13/15 22:56:08: 2015-07-29.dpm
+Sunday 09/13/15 22:56:08: 2015-07-30.dpm
+Sunday 09/13/15 22:56:08: 2015-07-31.dpm
+Sunday 09/13/15 22:56:08: Подключаемся к БД 
+
+Sunday 09/13/15 22:56:08: читаем алиасы
+Sunday 09/13/15 22:56:08: D:\\tnvdata\\Aliases.ini
+Sunday 09/13/15 22:56:08: Alias0=Тестовый*\\Digiton_server\TNV_RADIO\BIG_BASE\POLNAYA_BAZA\
+Sunday 09/13/15 22:56:08: Alias1=джинглы*\\Digiton_server\TNV_RADIO\JINGL'S\
+Sunday 09/13/15 22:56:08: Alias2=реклама*\\Digiton_server\TNV_RADIO\RECLAMA\
+Sunday 09/13/15 22:56:08: Alias3=TNV-for-Efir*\\Digiton_server\TNV_RADIO\TNV-for-Efir\
+Sunday 09/13/15 22:56:08: Alias4=NEWS*\\Digiton_server\tnv_radio\NEWS\
+Sunday 09/13/15 22:56:08: Alias5=PROGRAMS*\\Digiton_server\tnv_radio\PROGRAMS\
+Sunday 09/13/15 22:56:08: Alias6=ROTACIA*\\Digiton_server\tnv_radio\ROTACIA\
+Sunday 09/13/15 22:56:08: Alias7=BIG_BASE*\\Digiton_server\TNV_RADIO\BIG_BASE\
+Sunday 09/13/15 22:56:08: Alias8=ATM*\\Digiton_server\tnv_radio\ATM\
+Sunday 09/13/15 22:56:08: Alias9=region1_chelni_nizhnekamsk*\\MERLIN\region\region1_chelni_nizhnekamsk\audio\region1_chelni_nizhnekamsk\
+Sunday 09/13/15 22:56:08: Alias10=region2_leninogorsk_almetevsk*\\MERLIN\region\region2_leninogorsk_almetevsk\audio\region2_leninogorsk_almetevsk\
+Sunday 09/13/15 22:56:08: Update Aliaces
+Sunday 09/13/15 22:56:09: открываем файл для чтения
+Sunday 09/13/15 22:56:09: D:\tnvdata\2015-07-01.dpm
+Sunday 09/13/15 22:58:12: Читаем connection.txt
+Sunday 09/13/15 22:58:12: Настройки подключения к БД host, user, password, database, port, unix_socket, clientflag 
+Sunday 09/13/15 22:58:12: localhost
+Sunday 09/13/15 22:58:12: admin
+Sunday 09/13/15 22:58:12: admin
+Sunday 09/13/15 22:58:12: cpp_data
+Sunday 09/13/15 22:58:12: 3306
+Sunday 09/13/15 22:58:12: 0
+Sunday 09/13/15 22:58:12: 0
+Sunday 09/13/15 22:58:12: Настройки расположения файлов  dpm_filepath, dpm_filename, aliase_patch
+Sunday 09/13/15 22:58:12: D:\tnvdata\
+Sunday 09/13/15 22:58:12: *.dpm
+Sunday 09/13/15 22:58:12: D:\\tnvdata\\
+Sunday 09/13/15 22:58:12: Ищем файлы в директории
+Sunday 09/13/15 22:58:12: 2015-07-01.dpm
+Sunday 09/13/15 22:58:12: 2015-07-02.dpm
+Sunday 09/13/15 22:58:12: 2015-07-03.dpm
+Sunday 09/13/15 22:58:12: 2015-07-04.dpm
+Sunday 09/13/15 22:58:12: 2015-07-05.dpm
+Sunday 09/13/15 22:58:12: 2015-07-06.dpm
+Sunday 09/13/15 22:58:12: 2015-07-07.dpm
+Sunday 09/13/15 22:58:12: 2015-07-08.dpm
+Sunday 09/13/15 22:58:12: 2015-07-09.dpm
+Sunday 09/13/15 22:58:12: 2015-07-10.dpm
+Sunday 09/13/15 22:58:12: 2015-07-11.dpm
+Sunday 09/13/15 22:58:12: 2015-07-12.dpm
+Sunday 09/13/15 22:58:12: 2015-07-13.dpm
+Sunday 09/13/15 22:58:12: 2015-07-14.dpm
+Sunday 09/13/15 22:58:12: 2015-07-15.dpm
+Sunday 09/13/15 22:58:12: 2015-07-16.dpm
+Sunday 09/13/15 22:58:12: 2015-07-17.dpm
+Sunday 09/13/15 22:58:12: 2015-07-18.dpm
+Sunday 09/13/15 22:58:12: 2015-07-19.dpm
+Sunday 09/13/15 22:58:12: 2015-07-20.dpm
+Sunday 09/13/15 22:58:12: 2015-07-21.dpm
+Sunday 09/13/15 22:58:12: 2015-07-22.dpm
+Sunday 09/13/15 22:58:12: 2015-07-23.dpm
+Sunday 09/13/15 22:58:12: 2015-07-24.dpm
+Sunday 09/13/15 22:58:12: 2015-07-25.dpm
+Sunday 09/13/15 22:58:12: 2015-07-26.dpm
+Sunday 09/13/15 22:58:12: 2015-07-27.dpm
+Sunday 09/13/15 22:58:12: 2015-07-28.dpm
+Sunday 09/13/15 22:58:12: 2015-07-29.dpm
+Sunday 09/13/15 22:58:12: 2015-07-30.dpm
+Sunday 09/13/15 22:58:12: 2015-07-31.dpm
+Sunday 09/13/15 22:58:12: Подключаемся к БД 
+
+Sunday 09/13/15 22:58:12: читаем алиасы
+Sunday 09/13/15 22:58:12: D:\\tnvdata\\Aliases.ini
+Sunday 09/13/15 22:58:12: Alias0=Тестовый*\\Digiton_server\TNV_RADIO\BIG_BASE\POLNAYA_BAZA\
+Sunday 09/13/15 22:58:12: Alias1=джинглы*\\Digiton_server\TNV_RADIO\JINGL'S\
+Sunday 09/13/15 22:58:12: Alias2=реклама*\\Digiton_server\TNV_RADIO\RECLAMA\
+Sunday 09/13/15 22:58:12: Alias3=TNV-for-Efir*\\Digiton_server\TNV_RADIO\TNV-for-Efir\
+Sunday 09/13/15 22:58:12: Alias4=NEWS*\\Digiton_server\tnv_radio\NEWS\
+Sunday 09/13/15 22:58:12: Alias5=PROGRAMS*\\Digiton_server\tnv_radio\PROGRAMS\
+Sunday 09/13/15 22:58:12: Alias6=ROTACIA*\\Digiton_server\tnv_radio\ROTACIA\
+Sunday 09/13/15 22:58:12: Alias7=BIG_BASE*\\Digiton_server\TNV_RADIO\BIG_BASE\
+Sunday 09/13/15 22:58:12: Alias8=ATM*\\Digiton_server\tnv_radio\ATM\
+Sunday 09/13/15 22:58:12: Alias9=region1_chelni_nizhnekamsk*\\MERLIN\region\region1_chelni_nizhnekamsk\audio\region1_chelni_nizhnekamsk\
+Sunday 09/13/15 22:58:12: Alias10=region2_leninogorsk_almetevsk*\\MERLIN\region\region2_leninogorsk_almetevsk\audio\region2_leninogorsk_almetevsk\
+Sunday 09/13/15 22:58:12: Update Aliaces
+Sunday 09/13/15 22:58:12: открываем файл для чтения
+Sunday 09/13/15 22:58:12: D:\tnvdata\2015-07-01.dpm
+Sunday 09/13/15 22:59:34: открываем файл для чтения
+Sunday 09/13/15 22:59:34: D:\tnvdata\2015-07-02.dpm
+Sunday 09/13/15 23:01:01: Читаем connection.txt
+Sunday 09/13/15 23:01:01: Настройки подключения к БД host, user, password, database, port, unix_socket, clientflag 
+Sunday 09/13/15 23:01:01: localhost
+Sunday 09/13/15 23:01:01: admin
+Sunday 09/13/15 23:01:01: admin
+Sunday 09/13/15 23:01:01: cpp_data
+Sunday 09/13/15 23:01:01: 3306
+Sunday 09/13/15 23:01:01: 0
+Sunday 09/13/15 23:01:01: 0
+Sunday 09/13/15 23:01:01: Настройки расположения файлов  dpm_filepath, dpm_filename, aliase_patch
+Sunday 09/13/15 23:01:01: D:\tnvdata\
+Sunday 09/13/15 23:01:01: *.dpm
+Sunday 09/13/15 23:01:01: D:\\tnvdata\\
+Sunday 09/13/15 23:01:01: Ищем файлы в директории
+Sunday 09/13/15 23:01:01: 2015-07-01.dpm
+Sunday 09/13/15 23:01:01: 2015-07-02.dpm
+Sunday 09/13/15 23:01:01: 2015-07-03.dpm
+Sunday 09/13/15 23:01:01: 2015-07-04.dpm
+Sunday 09/13/15 23:01:01: 2015-07-05.dpm
+Sunday 09/13/15 23:01:01: 2015-07-06.dpm
+Sunday 09/13/15 23:01:01: 2015-07-07.dpm
+Sunday 09/13/15 23:01:01: 2015-07-08.dpm
+Sunday 09/13/15 23:01:01: 2015-07-09.dpm
+Sunday 09/13/15 23:01:01: 2015-07-10.dpm
+Sunday 09/13/15 23:01:01: 2015-07-11.dpm
+Sunday 09/13/15 23:01:01: 2015-07-12.dpm
+Sunday 09/13/15 23:01:01: 2015-07-13.dpm
+Sunday 09/13/15 23:01:01: 2015-07-14.dpm
+Sunday 09/13/15 23:01:01: 2015-07-15.dpm
+Sunday 09/13/15 23:01:01: 2015-07-16.dpm
+Sunday 09/13/15 23:01:01: 2015-07-17.dpm
+Sunday 09/13/15 23:01:01: 2015-07-18.dpm
+Sunday 09/13/15 23:01:01: 2015-07-19.dpm
+Sunday 09/13/15 23:01:01: 2015-07-20.dpm
+Sunday 09/13/15 23:01:01: 2015-07-21.dpm
+Sunday 09/13/15 23:01:01: 2015-07-22.dpm
+Sunday 09/13/15 23:01:01: 2015-07-23.dpm
+Sunday 09/13/15 23:01:01: 2015-07-24.dpm
+Sunday 09/13/15 23:01:01: 2015-07-25.dpm
+Sunday 09/13/15 23:01:01: 2015-07-26.dpm
+Sunday 09/13/15 23:01:01: 2015-07-27.dpm
+Sunday 09/13/15 23:01:01: 2015-07-28.dpm
+Sunday 09/13/15 23:01:01: 2015-07-29.dpm
+Sunday 09/13/15 23:01:01: 2015-07-30.dpm
+Sunday 09/13/15 23:01:01: 2015-07-31.dpm
+Sunday 09/13/15 23:01:01: Подключаемся к БД 
+
+Sunday 09/13/15 23:01:01: читаем алиасы
+Sunday 09/13/15 23:01:01: D:\\tnvdata\\Aliases.ini
+Sunday 09/13/15 23:01:01: Alias0=Тестовый*\\Digiton_server\TNV_RADIO\BIG_BASE\POLNAYA_BAZA\
+Sunday 09/13/15 23:01:01: Alias1=джинглы*\\Digiton_server\TNV_RADIO\JINGL'S\
+Sunday 09/13/15 23:01:01: Alias2=реклама*\\Digiton_server\TNV_RADIO\RECLAMA\
+Sunday 09/13/15 23:01:01: Alias3=TNV-for-Efir*\\Digiton_server\TNV_RADIO\TNV-for-Efir\
+Sunday 09/13/15 23:01:01: Alias4=NEWS*\\Digiton_server\tnv_radio\NEWS\
+Sunday 09/13/15 23:01:01: Alias5=PROGRAMS*\\Digiton_server\tnv_radio\PROGRAMS\
+Sunday 09/13/15 23:01:01: Alias6=ROTACIA*\\Digiton_server\tnv_radio\ROTACIA\
+Sunday 09/13/15 23:01:01: Alias7=BIG_BASE*\\Digiton_server\TNV_RADIO\BIG_BASE\
+Sunday 09/13/15 23:01:01: Alias8=ATM*\\Digiton_server\tnv_radio\ATM\
+Sunday 09/13/15 23:01:01: Alias9=region1_chelni_nizhnekamsk*\\MERLIN\region\region1_chelni_nizhnekamsk\audio\region1_chelni_nizhnekamsk\
+Sunday 09/13/15 23:01:01: Alias10=region2_leninogorsk_almetevsk*\\MERLIN\region\region2_leninogorsk_almetevsk\audio\region2_leninogorsk_almetevsk\
+Sunday 09/13/15 23:01:01: Update Aliaces
+Sunday 09/13/15 23:01:01: открываем файл для чтения
+Sunday 09/13/15 23:01:01: D:\tnvdata\2015-07-01.dpm
+Sunday 09/13/15 23:02:59: Читаем connection.txt
+Sunday 09/13/15 23:02:59: Настройки подключения к БД host, user, password, database, port, unix_socket, clientflag 
+Sunday 09/13/15 23:02:59: localhost
+Sunday 09/13/15 23:02:59: admin
+Sunday 09/13/15 23:02:59: admin
+Sunday 09/13/15 23:02:59: cpp_data
+Sunday 09/13/15 23:02:59: 3306
+Sunday 09/13/15 23:02:59: 0
+Sunday 09/13/15 23:02:59: 0
+Sunday 09/13/15 23:02:59: Настройки расположения файлов  dpm_filepath, dpm_filename, aliase_patch
+Sunday 09/13/15 23:02:59: D:\tnvdata\
+Sunday 09/13/15 23:02:59: *.dpm
+Sunday 09/13/15 23:02:59: D:\\tnvdata\\
+Sunday 09/13/15 23:02:59: Ищем файлы в директории
+Sunday 09/13/15 23:02:59: 2015-07-01.dpm
+Sunday 09/13/15 23:02:59: 2015-07-02.dpm
+Sunday 09/13/15 23:02:59: 2015-07-03.dpm
+Sunday 09/13/15 23:02:59: 2015-07-04.dpm
+Sunday 09/13/15 23:02:59: 2015-07-05.dpm
+Sunday 09/13/15 23:02:59: 2015-07-06.dpm
+Sunday 09/13/15 23:02:59: 2015-07-07.dpm
+Sunday 09/13/15 23:02:59: 2015-07-08.dpm
+Sunday 09/13/15 23:02:59: 2015-07-09.dpm
+Sunday 09/13/15 23:02:59: 2015-07-10.dpm
+Sunday 09/13/15 23:02:59: 2015-07-11.dpm
+Sunday 09/13/15 23:02:59: 2015-07-12.dpm
+Sunday 09/13/15 23:02:59: 2015-07-13.dpm
+Sunday 09/13/15 23:02:59: 2015-07-14.dpm
+Sunday 09/13/15 23:02:59: 2015-07-15.dpm
+Sunday 09/13/15 23:02:59: 2015-07-16.dpm
+Sunday 09/13/15 23:02:59: 2015-07-17.dpm
+Sunday 09/13/15 23:02:59: 2015-07-18.dpm
+Sunday 09/13/15 23:02:59: 2015-07-19.dpm
+Sunday 09/13/15 23:02:59: 2015-07-20.dpm
+Sunday 09/13/15 23:02:59: 2015-07-21.dpm
+Sunday 09/13/15 23:02:59: 2015-07-22.dpm
+Sunday 09/13/15 23:02:59: 2015-07-23.dpm
+Sunday 09/13/15 23:02:59: 2015-07-24.dpm
+Sunday 09/13/15 23:02:59: 2015-07-25.dpm
+Sunday 09/13/15 23:02:59: 2015-07-26.dpm
+Sunday 09/13/15 23:02:59: 2015-07-27.dpm
+Sunday 09/13/15 23:02:59: 2015-07-28.dpm
+Sunday 09/13/15 23:02:59: 2015-07-29.dpm
+Sunday 09/13/15 23:02:59: 2015-07-30.dpm
+Sunday 09/13/15 23:02:59: 2015-07-31.dpm
+Sunday 09/13/15 23:02:59: Подключаемся к БД 
+
+Sunday 09/13/15 23:02:59: читаем алиасы
+Sunday 09/13/15 23:02:59: D:\\tnvdata\\Aliases.ini
+Sunday 09/13/15 23:02:59: Alias0=Тестовый*\\Digiton_server\TNV_RADIO\BIG_BASE\POLNAYA_BAZA\
+Sunday 09/13/15 23:02:59: Alias1=джинглы*\\Digiton_server\TNV_RADIO\JINGL'S\
+Sunday 09/13/15 23:02:59: Alias2=реклама*\\Digiton_server\TNV_RADIO\RECLAMA\
+Sunday 09/13/15 23:02:59: Alias3=TNV-for-Efir*\\Digiton_server\TNV_RADIO\TNV-for-Efir\
+Sunday 09/13/15 23:02:59: Alias4=NEWS*\\Digiton_server\tnv_radio\NEWS\
+Sunday 09/13/15 23:02:59: Alias5=PROGRAMS*\\Digiton_server\tnv_radio\PROGRAMS\
+Sunday 09/13/15 23:02:59: Alias6=ROTACIA*\\Digiton_server\tnv_radio\ROTACIA\
+Sunday 09/13/15 23:02:59: Alias7=BIG_BASE*\\Digiton_server\TNV_RADIO\BIG_BASE\
+Sunday 09/13/15 23:02:59: Alias8=ATM*\\Digiton_server\tnv_radio\ATM\
+Sunday 09/13/15 23:02:59: Alias9=region1_chelni_nizhnekamsk*\\MERLIN\region\region1_chelni_nizhnekamsk\audio\region1_chelni_nizhnekamsk\
+Sunday 09/13/15 23:02:59: Alias10=region2_leninogorsk_almetevsk*\\MERLIN\region\region2_leninogorsk_almetevsk\audio\region2_leninogorsk_almetevsk\
+Sunday 09/13/15 23:02:59: Update Aliaces
+Sunday 09/13/15 23:03:00: открываем файл для чтения
+Sunday 09/13/15 23:03:00: D:\tnvdata\2015-07-01.dpm
+Sunday 09/13/15 23:04:14: открываем файл для чтения
+Sunday 09/13/15 23:04:14: D:\tnvdata\2015-07-02.dpm
+Sunday 09/13/15 23:06:18: Читаем connection.txt
+Sunday 09/13/15 23:06:18: Настройки подключения к БД host, user, password, database, port, unix_socket, clientflag 
+Sunday 09/13/15 23:06:18: localhost
+Sunday 09/13/15 23:06:18: admin
+Sunday 09/13/15 23:06:18: admin
+Sunday 09/13/15 23:06:18: cpp_data
+Sunday 09/13/15 23:06:18: 3306
+Sunday 09/13/15 23:06:18: 0
+Sunday 09/13/15 23:06:18: 0
+Sunday 09/13/15 23:06:18: Настройки расположения файлов  dpm_filepath, dpm_filename, aliase_patch
+Sunday 09/13/15 23:06:18: D:\tnvdata\
+Sunday 09/13/15 23:06:18: *.dpm
+Sunday 09/13/15 23:06:18: D:\\tnvdata\\
+Sunday 09/13/15 23:06:18: Ищем файлы в директории
+Sunday 09/13/15 23:06:18: 2015-07-01.dpm
+Sunday 09/13/15 23:06:18: 2015-07-02.dpm
+Sunday 09/13/15 23:06:18: 2015-07-03.dpm
+Sunday 09/13/15 23:06:18: 2015-07-04.dpm
+Sunday 09/13/15 23:06:18: 2015-07-05.dpm
+Sunday 09/13/15 23:06:18: 2015-07-06.dpm
+Sunday 09/13/15 23:06:18: 2015-07-07.dpm
+Sunday 09/13/15 23:06:18: 2015-07-08.dpm
+Sunday 09/13/15 23:06:18: 2015-07-09.dpm
+Sunday 09/13/15 23:06:18: 2015-07-10.dpm
+Sunday 09/13/15 23:06:18: 2015-07-11.dpm
+Sunday 09/13/15 23:06:18: 2015-07-12.dpm
+Sunday 09/13/15 23:06:18: 2015-07-13.dpm
+Sunday 09/13/15 23:06:18: 2015-07-14.dpm
+Sunday 09/13/15 23:06:18: 2015-07-15.dpm
+Sunday 09/13/15 23:06:18: 2015-07-16.dpm
+Sunday 09/13/15 23:06:18: 2015-07-17.dpm
+Sunday 09/13/15 23:06:18: 2015-07-18.dpm
+Sunday 09/13/15 23:06:18: 2015-07-19.dpm
+Sunday 09/13/15 23:06:18: 2015-07-20.dpm
+Sunday 09/13/15 23:06:18: 2015-07-21.dpm
+Sunday 09/13/15 23:06:18: 2015-07-22.dpm
+Sunday 09/13/15 23:06:18: 2015-07-23.dpm
+Sunday 09/13/15 23:06:18: 2015-07-24.dpm
+Sunday 09/13/15 23:06:18: 2015-07-25.dpm
+Sunday 09/13/15 23:06:18: 2015-07-26.dpm
+Sunday 09/13/15 23:06:18: 2015-07-27.dpm
+Sunday 09/13/15 23:06:18: 2015-07-28.dpm
+Sunday 09/13/15 23:06:18: 2015-07-29.dpm
+Sunday 09/13/15 23:06:18: 2015-07-30.dpm
+Sunday 09/13/15 23:06:18: 2015-07-31.dpm
+Sunday 09/13/15 23:06:18: Подключаемся к БД 
+
+Sunday 09/13/15 23:06:18: читаем алиасы
+Sunday 09/13/15 23:06:18: D:\\tnvdata\\Aliases.ini
+Sunday 09/13/15 23:06:18: Alias0=Тестовый*\\Digiton_server\TNV_RADIO\BIG_BASE\POLNAYA_BAZA\
+Sunday 09/13/15 23:06:18: Alias1=джинглы*\\Digiton_server\TNV_RADIO\JINGL'S\
+Sunday 09/13/15 23:06:18: Alias2=реклама*\\Digiton_server\TNV_RADIO\RECLAMA\
+Sunday 09/13/15 23:06:18: Alias3=TNV-for-Efir*\\Digiton_server\TNV_RADIO\TNV-for-Efir\
+Sunday 09/13/15 23:06:18: Alias4=NEWS*\\Digiton_server\tnv_radio\NEWS\
+Sunday 09/13/15 23:06:18: Alias5=PROGRAMS*\\Digiton_server\tnv_radio\PROGRAMS\
+Sunday 09/13/15 23:06:18: Alias6=ROTACIA*\\Digiton_server\tnv_radio\ROTACIA\
+Sunday 09/13/15 23:06:18: Alias7=BIG_BASE*\\Digiton_server\TNV_RADIO\BIG_BASE\
+Sunday 09/13/15 23:06:18: Alias8=ATM*\\Digiton_server\tnv_radio\ATM\
+Sunday 09/13/15 23:06:18: Alias9=region1_chelni_nizhnekamsk*\\MERLIN\region\region1_chelni_nizhnekamsk\audio\region1_chelni_nizhnekamsk\
+Sunday 09/13/15 23:06:18: Alias10=region2_leninogorsk_almetevsk*\\MERLIN\region\region2_leninogorsk_almetevsk\audio\region2_leninogorsk_almetevsk\
+Sunday 09/13/15 23:06:18: Update Aliaces
+Sunday 09/13/15 23:06:19: открываем файл для чтения
+Sunday 09/13/15 23:06:19: D:\tnvdata\2015-07-01.dpm
+Sunday 09/13/15 23:09:30: Читаем connection.txt
+Sunday 09/13/15 23:09:30: Настройки подключения к БД host, user, password, database, port, unix_socket, clientflag 
+Sunday 09/13/15 23:09:30: localhost
+Sunday 09/13/15 23:09:30: admin
+Sunday 09/13/15 23:09:30: admin
+Sunday 09/13/15 23:09:30: cpp_data
+Sunday 09/13/15 23:09:30: 3306
+Sunday 09/13/15 23:09:30: 0
+Sunday 09/13/15 23:09:30: 0
+Sunday 09/13/15 23:09:30: Настройки расположения файлов  dpm_filepath, dpm_filename, aliase_patch
+Sunday 09/13/15 23:09:30: D:\tnvdata\
+Sunday 09/13/15 23:09:30: *.dpm
+Sunday 09/13/15 23:09:30: D:\\tnvdata\\
+Sunday 09/13/15 23:09:30: Ищем файлы в директории
+Sunday 09/13/15 23:09:30: 2015-07-01.dpm
+Sunday 09/13/15 23:09:30: 2015-07-02.dpm
+Sunday 09/13/15 23:09:30: 2015-07-03.dpm
+Sunday 09/13/15 23:09:30: 2015-07-04.dpm
+Sunday 09/13/15 23:09:30: 2015-07-05.dpm
+Sunday 09/13/15 23:09:30: 2015-07-06.dpm
+Sunday 09/13/15 23:09:30: 2015-07-07.dpm
+Sunday 09/13/15 23:09:30: 2015-07-08.dpm
+Sunday 09/13/15 23:09:30: 2015-07-09.dpm
+Sunday 09/13/15 23:09:30: 2015-07-10.dpm
+Sunday 09/13/15 23:09:30: 2015-07-11.dpm
+Sunday 09/13/15 23:09:30: 2015-07-12.dpm
+Sunday 09/13/15 23:09:30: 2015-07-13.dpm
+Sunday 09/13/15 23:09:30: 2015-07-14.dpm
+Sunday 09/13/15 23:09:30: 2015-07-15.dpm
+Sunday 09/13/15 23:09:30: 2015-07-16.dpm
+Sunday 09/13/15 23:09:30: 2015-07-17.dpm
+Sunday 09/13/15 23:09:30: 2015-07-18.dpm
+Sunday 09/13/15 23:09:30: 2015-07-19.dpm
+Sunday 09/13/15 23:09:30: 2015-07-20.dpm
+Sunday 09/13/15 23:09:30: 2015-07-21.dpm
+Sunday 09/13/15 23:09:30: 2015-07-22.dpm
+Sunday 09/13/15 23:09:30: 2015-07-23.dpm
+Sunday 09/13/15 23:09:30: 2015-07-24.dpm
+Sunday 09/13/15 23:09:30: 2015-07-25.dpm
+Sunday 09/13/15 23:09:30: 2015-07-26.dpm
+Sunday 09/13/15 23:09:30: 2015-07-27.dpm
+Sunday 09/13/15 23:09:30: 2015-07-28.dpm
+Sunday 09/13/15 23:09:30: 2015-07-29.dpm
+Sunday 09/13/15 23:09:30: 2015-07-30.dpm
+Sunday 09/13/15 23:09:30: 2015-07-31.dpm
+Sunday 09/13/15 23:09:30: Подключаемся к БД 
+
+Sunday 09/13/15 23:09:30: читаем алиасы
+Sunday 09/13/15 23:09:30: D:\\tnvdata\\Aliases.ini
+Sunday 09/13/15 23:09:30: Alias0=Тестовый*\\Digiton_server\TNV_RADIO\BIG_BASE\POLNAYA_BAZA\
+Sunday 09/13/15 23:09:30: Alias1=джинглы*\\Digiton_server\TNV_RADIO\JINGL'S\
+Sunday 09/13/15 23:09:30: Alias2=реклама*\\Digiton_server\TNV_RADIO\RECLAMA\
+Sunday 09/13/15 23:09:30: Alias3=TNV-for-Efir*\\Digiton_server\TNV_RADIO\TNV-for-Efir\
+Sunday 09/13/15 23:09:30: Alias4=NEWS*\\Digiton_server\tnv_radio\NEWS\
+Sunday 09/13/15 23:09:30: Alias5=PROGRAMS*\\Digiton_server\tnv_radio\PROGRAMS\
+Sunday 09/13/15 23:09:30: Alias6=ROTACIA*\\Digiton_server\tnv_radio\ROTACIA\
+Sunday 09/13/15 23:09:30: Alias7=BIG_BASE*\\Digiton_server\TNV_RADIO\BIG_BASE\
+Sunday 09/13/15 23:09:30: Alias8=ATM*\\Digiton_server\tnv_radio\ATM\
+Sunday 09/13/15 23:09:30: Alias9=region1_chelni_nizhnekamsk*\\MERLIN\region\region1_chelni_nizhnekamsk\audio\region1_chelni_nizhnekamsk\
+Sunday 09/13/15 23:09:30: Alias10=region2_leninogorsk_almetevsk*\\MERLIN\region\region2_leninogorsk_almetevsk\audio\region2_leninogorsk_almetevsk\
+Sunday 09/13/15 23:09:30: Update Aliaces
+Sunday 09/13/15 23:09:31: открываем файл для чтения
+Sunday 09/13/15 23:09:31: D:\tnvdata\2015-07-01.dpm
+Sunday 09/13/15 23:10:10: открываем файл для чтения
+Sunday 09/13/15 23:10:10: D:\tnvdata\2015-07-02.dpm
+Sunday 09/13/15 23:11:01: открываем файл для чтения
+Sunday 09/13/15 23:11:01: D:\tnvdata\2015-07-03.dpm
+Sunday 09/13/15 23:12:38: открываем файл для чтения
+Sunday 09/13/15 23:12:38: D:\tnvdata\2015-07-04.dpm
+Sunday 09/13/15 23:14:01: открываем файл для чтения
+Sunday 09/13/15 23:14:01: D:\tnvdata\2015-07-05.dpm
+Sunday 09/13/15 23:15:26: открываем файл для чтения
+Sunday 09/13/15 23:15:26: D:\tnvdata\2015-07-06.dpm
+Sunday 09/13/15 23:17:17: Читаем connection.txt
+Sunday 09/13/15 23:17:17: Настройки подключения к БД host, user, password, database, port, unix_socket, clientflag 
+Sunday 09/13/15 23:17:17: localhost
+Sunday 09/13/15 23:17:17: admin
+Sunday 09/13/15 23:17:17: admin
+Sunday 09/13/15 23:17:17: cpp_data
+Sunday 09/13/15 23:17:17: 3306
+Sunday 09/13/15 23:17:17: 0
+Sunday 09/13/15 23:17:17: 0
+Sunday 09/13/15 23:17:17: Настройки расположения файлов  dpm_filepath, dpm_filename, aliase_patch
+Sunday 09/13/15 23:17:17: D:\tnvdata\
+Sunday 09/13/15 23:17:17: *.dpm
+Sunday 09/13/15 23:17:17: D:\\tnvdata\\
+Sunday 09/13/15 23:17:17: Ищем файлы в директории
+Sunday 09/13/15 23:17:17: 2015-07-01.dpm
+Sunday 09/13/15 23:17:17: 2015-07-02.dpm
+Sunday 09/13/15 23:17:17: 2015-07-03.dpm
+Sunday 09/13/15 23:17:17: 2015-07-04.dpm
+Sunday 09/13/15 23:17:17: 2015-07-05.dpm
+Sunday 09/13/15 23:17:17: 2015-07-06.dpm
+Sunday 09/13/15 23:17:17: 2015-07-07.dpm
+Sunday 09/13/15 23:17:17: 2015-07-08.dpm
+Sunday 09/13/15 23:17:17: 2015-07-09.dpm
+Sunday 09/13/15 23:17:17: 2015-07-10.dpm
+Sunday 09/13/15 23:17:17: 2015-07-11.dpm
+Sunday 09/13/15 23:17:17: 2015-07-12.dpm
+Sunday 09/13/15 23:17:17: 2015-07-13.dpm
+Sunday 09/13/15 23:17:17: 2015-07-14.dpm
+Sunday 09/13/15 23:17:17: 2015-07-15.dpm
+Sunday 09/13/15 23:17:17: 2015-07-16.dpm
+Sunday 09/13/15 23:17:17: 2015-07-17.dpm
+Sunday 09/13/15 23:17:17: 2015-07-18.dpm
+Sunday 09/13/15 23:17:17: 2015-07-19.dpm
+Sunday 09/13/15 23:17:17: 2015-07-20.dpm
+Sunday 09/13/15 23:17:17: 2015-07-21.dpm
+Sunday 09/13/15 23:17:17: 2015-07-22.dpm
+Sunday 09/13/15 23:17:17: 2015-07-23.dpm
+Sunday 09/13/15 23:17:17: 2015-07-24.dpm
+Sunday 09/13/15 23:17:17: 2015-07-25.dpm
+Sunday 09/13/15 23:17:17: 2015-07-26.dpm
+Sunday 09/13/15 23:17:17: 2015-07-27.dpm
+Sunday 09/13/15 23:17:17: 2015-07-28.dpm
+Sunday 09/13/15 23:17:17: 2015-07-29.dpm
+Sunday 09/13/15 23:17:17: 2015-07-30.dpm
+Sunday 09/13/15 23:17:17: 2015-07-31.dpm
+Sunday 09/13/15 23:17:17: Подключаемся к БД 
+
+Sunday 09/13/15 23:17:17: читаем алиасы
+Sunday 09/13/15 23:17:17: D:\\tnvdata\\Aliases.ini
+Sunday 09/13/15 23:17:17: Alias0=Тестовый*\\Digiton_server\TNV_RADIO\BIG_BASE\POLNAYA_BAZA\
+Sunday 09/13/15 23:17:17: Alias1=джинглы*\\Digiton_server\TNV_RADIO\JINGL'S\
+Sunday 09/13/15 23:17:17: Alias2=реклама*\\Digiton_server\TNV_RADIO\RECLAMA\
+Sunday 09/13/15 23:17:17: Alias3=TNV-for-Efir*\\Digiton_server\TNV_RADIO\TNV-for-Efir\
+Sunday 09/13/15 23:17:17: Alias4=NEWS*\\Digiton_server\tnv_radio\NEWS\
+Sunday 09/13/15 23:17:17: Alias5=PROGRAMS*\\Digiton_server\tnv_radio\PROGRAMS\
+Sunday 09/13/15 23:17:17: Alias6=ROTACIA*\\Digiton_server\tnv_radio\ROTACIA\
+Sunday 09/13/15 23:17:17: Alias7=BIG_BASE*\\Digiton_server\TNV_RADIO\BIG_BASE\
+Sunday 09/13/15 23:17:17: Alias8=ATM*\\Digiton_server\tnv_radio\ATM\
+Sunday 09/13/15 23:17:17: Alias9=region1_chelni_nizhnekamsk*\\MERLIN\region\region1_chelni_nizhnekamsk\audio\region1_chelni_nizhnekamsk\
+Sunday 09/13/15 23:17:17: Alias10=region2_leninogorsk_almetevsk*\\MERLIN\region\region2_leninogorsk_almetevsk\audio\region2_leninogorsk_almetevsk\
+Sunday 09/13/15 23:17:17: Update Aliaces
+Sunday 09/13/15 23:17:19: открываем файл для чтения
+Sunday 09/13/15 23:17:19: D:\tnvdata\2015-07-01.dpm
+Sunday 09/13/15 23:17:44: Читаем connection.txt
+Sunday 09/13/15 23:17:44: Настройки подключения к БД host, user, password, database, port, unix_socket, clientflag 
+Sunday 09/13/15 23:17:44: localhost
+Sunday 09/13/15 23:17:44: admin
+Sunday 09/13/15 23:17:44: admin
+Sunday 09/13/15 23:17:44: cpp_data
+Sunday 09/13/15 23:17:44: 3306
+Sunday 09/13/15 23:17:44: 0
+Sunday 09/13/15 23:17:44: 0
+Sunday 09/13/15 23:17:44: Настройки расположения файлов  dpm_filepath, dpm_filename, aliase_patch
+Sunday 09/13/15 23:17:44: D:\tnvdata\
+Sunday 09/13/15 23:17:44: *.dpm
+Sunday 09/13/15 23:17:44: D:\\tnvdata\\
+Sunday 09/13/15 23:17:44: Ищем файлы в директории
+Sunday 09/13/15 23:17:44: 2015-07-01.dpm
+Sunday 09/13/15 23:17:44: 2015-07-02.dpm
+Sunday 09/13/15 23:17:44: 2015-07-03.dpm
+Sunday 09/13/15 23:17:44: 2015-07-04.dpm
+Sunday 09/13/15 23:17:44: 2015-07-05.dpm
+Sunday 09/13/15 23:17:44: 2015-07-06.dpm
+Sunday 09/13/15 23:17:44: 2015-07-07.dpm
+Sunday 09/13/15 23:17:44: 2015-07-08.dpm
+Sunday 09/13/15 23:17:44: 2015-07-09.dpm
+Sunday 09/13/15 23:17:44: 2015-07-10.dpm
+Sunday 09/13/15 23:17:44: 2015-07-11.dpm
+Sunday 09/13/15 23:17:44: 2015-07-12.dpm
+Sunday 09/13/15 23:17:44: 2015-07-13.dpm
+Sunday 09/13/15 23:17:44: 2015-07-14.dpm
+Sunday 09/13/15 23:17:44: 2015-07-15.dpm
+Sunday 09/13/15 23:17:44: 2015-07-16.dpm
+Sunday 09/13/15 23:17:44: 2015-07-17.dpm
+Sunday 09/13/15 23:17:44: 2015-07-18.dpm
+Sunday 09/13/15 23:17:44: 2015-07-19.dpm
+Sunday 09/13/15 23:17:44: 2015-07-20.dpm
+Sunday 09/13/15 23:17:44: 2015-07-21.dpm
+Sunday 09/13/15 23:17:44: 2015-07-22.dpm
+Sunday 09/13/15 23:17:44: 2015-07-23.dpm
+Sunday 09/13/15 23:17:44: 2015-07-24.dpm
+Sunday 09/13/15 23:17:44: 2015-07-25.dpm
+Sunday 09/13/15 23:17:44: 2015-07-26.dpm
+Sunday 09/13/15 23:17:44: 2015-07-27.dpm
+Sunday 09/13/15 23:17:44: 2015-07-28.dpm
+Sunday 09/13/15 23:17:44: 2015-07-29.dpm
+Sunday 09/13/15 23:17:44: 2015-07-30.dpm
+Sunday 09/13/15 23:17:44: 2015-07-31.dpm
+Sunday 09/13/15 23:17:44: Подключаемся к БД 
+
+Sunday 09/13/15 23:17:44: читаем алиасы
+Sunday 09/13/15 23:17:44: D:\\tnvdata\\Aliases.ini
+Sunday 09/13/15 23:17:44: Alias0=Тестовый*\\Digiton_server\TNV_RADIO\BIG_BASE\POLNAYA_BAZA\
+Sunday 09/13/15 23:17:44: Alias1=джинглы*\\Digiton_server\TNV_RADIO\JINGL'S\
+Sunday 09/13/15 23:17:44: Alias2=реклама*\\Digiton_server\TNV_RADIO\RECLAMA\
+Sunday 09/13/15 23:17:44: Alias3=TNV-for-Efir*\\Digiton_server\TNV_RADIO\TNV-for-Efir\
+Sunday 09/13/15 23:17:44: Alias4=NEWS*\\Digiton_server\tnv_radio\NEWS\
+Sunday 09/13/15 23:17:44: Alias5=PROGRAMS*\\Digiton_server\tnv_radio\PROGRAMS\
+Sunday 09/13/15 23:17:44: Alias6=ROTACIA*\\Digiton_server\tnv_radio\ROTACIA\
+Sunday 09/13/15 23:17:44: Alias7=BIG_BASE*\\Digiton_server\TNV_RADIO\BIG_BASE\
+Sunday 09/13/15 23:17:44: Alias8=ATM*\\Digiton_server\tnv_radio\ATM\
+Sunday 09/13/15 23:17:44: Alias9=region1_chelni_nizhnekamsk*\\MERLIN\region\region1_chelni_nizhnekamsk\audio\region1_chelni_nizhnekamsk\
+Sunday 09/13/15 23:17:44: Alias10=region2_leninogorsk_almetevsk*\\MERLIN\region\region2_leninogorsk_almetevsk\audio\region2_leninogorsk_almetevsk\
+Sunday 09/13/15 23:17:44: Update Aliaces
+Sunday 09/13/15 23:17:45: открываем файл для чтения
+Sunday 09/13/15 23:17:45: D:\tnvdata\2015-07-01.dpm
+Sunday 09/13/15 23:18:48: открываем файл для чтения
+Sunday 09/13/15 23:18:48: D:\tnvdata\2015-07-02.dpm
+Sunday 09/13/15 23:20:14: открываем файл для чтения
+Sunday 09/13/15 23:20:14: D:\tnvdata\2015-07-03.dpm
+Sunday 09/13/15 23:21:48: открываем файл для чтения
+Sunday 09/13/15 23:21:48: D:\tnvdata\2015-07-04.dpm
+Sunday 09/13/15 23:23:09: открываем файл для чтения
+Sunday 09/13/15 23:23:09: D:\tnvdata\2015-07-05.dpm
+Sunday 09/13/15 23:24:34: открываем файл для чтения
+Sunday 09/13/15 23:24:34: D:\tnvdata\2015-07-06.dpm
+Sunday 09/13/15 23:25:57: открываем файл для чтения
+Sunday 09/13/15 23:25:57: D:\tnvdata\2015-07-07.dpm
+Sunday 09/13/15 23:27:22: открываем файл для чтения
+Sunday 09/13/15 23:27:22: D:\tnvdata\2015-07-08.dpm
+Sunday 09/13/15 23:28:39: открываем файл для чтения
+Sunday 09/13/15 23:28:39: D:\tnvdata\2015-07-09.dpm
+Sunday 09/13/15 23:30:04: открываем файл для чтения
+Sunday 09/13/15 23:30:04: D:\tnvdata\2015-07-10.dpm
+Sunday 09/13/15 23:32:06: Читаем connection.txt
+Sunday 09/13/15 23:32:06: Настройки подключения к БД host, user, password, database, port, unix_socket, clientflag 
+Sunday 09/13/15 23:32:06: localhost
+Sunday 09/13/15 23:32:06: admin
+Sunday 09/13/15 23:32:06: admin
+Sunday 09/13/15 23:32:06: cpp_data
+Sunday 09/13/15 23:32:06: 3306
+Sunday 09/13/15 23:32:06: 0
+Sunday 09/13/15 23:32:06: 0
+Sunday 09/13/15 23:32:06: Настройки расположения файлов  dpm_filepath, dpm_filename, aliase_patch
+Sunday 09/13/15 23:32:06: D:\tnvdata\
+Sunday 09/13/15 23:32:06: *.dpm
+Sunday 09/13/15 23:32:06: D:\\tnvdata\\
+Sunday 09/13/15 23:32:06: Ищем файлы в директории
+Sunday 09/13/15 23:32:06: 2015-07-01.dpm
+Sunday 09/13/15 23:32:06: 2015-07-02.dpm
+Sunday 09/13/15 23:32:06: 2015-07-03.dpm
+Sunday 09/13/15 23:32:06: 2015-07-04.dpm
+Sunday 09/13/15 23:32:06: 2015-07-05.dpm
+Sunday 09/13/15 23:32:06: 2015-07-06.dpm
+Sunday 09/13/15 23:32:06: 2015-07-07.dpm
+Sunday 09/13/15 23:32:06: 2015-07-08.dpm
+Sunday 09/13/15 23:32:06: 2015-07-09.dpm
+Sunday 09/13/15 23:32:06: 2015-07-10.dpm
+Sunday 09/13/15 23:32:06: 2015-07-11.dpm
+Sunday 09/13/15 23:32:06: 2015-07-12.dpm
+Sunday 09/13/15 23:32:06: 2015-07-13.dpm
+Sunday 09/13/15 23:32:06: 2015-07-14.dpm
+Sunday 09/13/15 23:32:06: 2015-07-15.dpm
+Sunday 09/13/15 23:32:06: 2015-07-16.dpm
+Sunday 09/13/15 23:32:06: 2015-07-17.dpm
+Sunday 09/13/15 23:32:06: 2015-07-18.dpm
+Sunday 09/13/15 23:32:06: 2015-07-19.dpm
+Sunday 09/13/15 23:32:06: 2015-07-20.dpm
+Sunday 09/13/15 23:32:06: 2015-07-21.dpm
+Sunday 09/13/15 23:32:06: 2015-07-22.dpm
+Sunday 09/13/15 23:32:06: 2015-07-23.dpm
+Sunday 09/13/15 23:32:06: 2015-07-24.dpm
+Sunday 09/13/15 23:32:06: 2015-07-25.dpm
+Sunday 09/13/15 23:32:06: 2015-07-26.dpm
+Sunday 09/13/15 23:32:06: 2015-07-27.dpm
+Sunday 09/13/15 23:32:06: 2015-07-28.dpm
+Sunday 09/13/15 23:32:06: 2015-07-29.dpm
+Sunday 09/13/15 23:32:06: 2015-07-30.dpm
+Sunday 09/13/15 23:32:06: 2015-07-31.dpm
+Sunday 09/13/15 23:32:06: Подключаемся к БД 
+
+Sunday 09/13/15 23:32:06: читаем алиасы
+Sunday 09/13/15 23:32:06: D:\\tnvdata\\Aliases.ini
+Sunday 09/13/15 23:32:06: Alias0=Тестовый*\\Digiton_server\TNV_RADIO\BIG_BASE\POLNAYA_BAZA\
+Sunday 09/13/15 23:32:06: Alias1=джинглы*\\Digiton_server\TNV_RADIO\JINGL'S\
+Sunday 09/13/15 23:32:06: Alias2=реклама*\\Digiton_server\TNV_RADIO\RECLAMA\
+Sunday 09/13/15 23:32:06: Alias3=TNV-for-Efir*\\Digiton_server\TNV_RADIO\TNV-for-Efir\
+Sunday 09/13/15 23:32:06: Alias4=NEWS*\\Digiton_server\tnv_radio\NEWS\
+Sunday 09/13/15 23:32:06: Alias5=PROGRAMS*\\Digiton_server\tnv_radio\PROGRAMS\
+Sunday 09/13/15 23:32:06: Alias6=ROTACIA*\\Digiton_server\tnv_radio\ROTACIA\
+Sunday 09/13/15 23:32:06: Alias7=BIG_BASE*\\Digiton_server\TNV_RADIO\BIG_BASE\
+Sunday 09/13/15 23:32:06: Alias8=ATM*\\Digiton_server\tnv_radio\ATM\
+Sunday 09/13/15 23:32:06: Alias9=region1_chelni_nizhnekamsk*\\MERLIN\region\region1_chelni_nizhnekamsk\audio\region1_chelni_nizhnekamsk\
+Sunday 09/13/15 23:32:06: Alias10=region2_leninogorsk_almetevsk*\\MERLIN\region\region2_leninogorsk_almetevsk\audio\region2_leninogorsk_almetevsk\
+Sunday 09/13/15 23:32:06: Update Aliaces
+Sunday 09/13/15 23:32:07: открываем файл для чтения
+Sunday 09/13/15 23:32:07: D:\tnvdata\2015-07-01.dpm
+Sunday 09/13/15 23:33:58: открываем файл для чтения
+Sunday 09/13/15 23:33:58: D:\tnvdata\2015-07-02.dpm
+Sunday 09/13/15 23:35:19: открываем файл для чтения
+Sunday 09/13/15 23:35:19: D:\tnvdata\2015-07-03.dpm
+Sunday 09/13/15 23:36:50: открываем файл для чтения
+Sunday 09/13/15 23:36:50: D:\tnvdata\2015-07-04.dpm
+Sunday 09/13/15 23:38:40: открываем файл для чтения
+Sunday 09/13/15 23:38:40: D:\tnvdata\2015-07-05.dpm
+Sunday 09/13/15 23:40:36: открываем файл для чтения
+Sunday 09/13/15 23:40:36: D:\tnvdata\2015-07-06.dpm
+Sunday 09/13/15 23:42:15: открываем файл для чтения
+Sunday 09/13/15 23:42:15: D:\tnvdata\2015-07-07.dpm
+Sunday 09/13/15 23:44:11: открываем файл для чтения
+Sunday 09/13/15 23:44:11: D:\tnvdata\2015-07-08.dpm
+Sunday 09/13/15 23:45:31: открываем файл для чтения
+Sunday 09/13/15 23:45:31: D:\tnvdata\2015-07-09.dpm
+Sunday 09/13/15 23:47:02: Читаем connection.txt
+Sunday 09/13/15 23:47:02: Настройки подключения к БД host, user, password, database, port, unix_socket, clientflag 
+Sunday 09/13/15 23:47:02: localhost
+Sunday 09/13/15 23:47:02: admin
+Sunday 09/13/15 23:47:02: admin
+Sunday 09/13/15 23:47:02: cpp_data
+Sunday 09/13/15 23:47:02: 3306
+Sunday 09/13/15 23:47:02: 0
+Sunday 09/13/15 23:47:02: 0
+Sunday 09/13/15 23:47:02: Настройки расположения файлов  dpm_filepath, dpm_filename, aliase_patch
+Sunday 09/13/15 23:47:02: D:\tnvdata\
+Sunday 09/13/15 23:47:02: *.dpm
+Sunday 09/13/15 23:47:02: D:\\tnvdata\\
+Sunday 09/13/15 23:47:02: Ищем файлы в директории
+Sunday 09/13/15 23:47:02: 2015-07-01.dpm
+Sunday 09/13/15 23:47:02: 2015-07-02.dpm
+Sunday 09/13/15 23:47:02: 2015-07-03.dpm
+Sunday 09/13/15 23:47:02: 2015-07-04.dpm
+Sunday 09/13/15 23:47:02: 2015-07-05.dpm
+Sunday 09/13/15 23:47:02: 2015-07-06.dpm
+Sunday 09/13/15 23:47:02: 2015-07-07.dpm
+Sunday 09/13/15 23:47:02: 2015-07-08.dpm
+Sunday 09/13/15 23:47:02: 2015-07-09.dpm
+Sunday 09/13/15 23:47:02: 2015-07-10.dpm
+Sunday 09/13/15 23:47:02: 2015-07-11.dpm
+Sunday 09/13/15 23:47:02: 2015-07-12.dpm
+Sunday 09/13/15 23:47:02: 2015-07-13.dpm
+Sunday 09/13/15 23:47:02: 2015-07-14.dpm
+Sunday 09/13/15 23:47:02: 2015-07-15.dpm
+Sunday 09/13/15 23:47:02: 2015-07-16.dpm
+Sunday 09/13/15 23:47:02: 2015-07-17.dpm
+Sunday 09/13/15 23:47:02: 2015-07-18.dpm
+Sunday 09/13/15 23:47:02: 2015-07-19.dpm
+Sunday 09/13/15 23:47:02: 2015-07-20.dpm
+Sunday 09/13/15 23:47:02: 2015-07-21.dpm
+Sunday 09/13/15 23:47:02: 2015-07-22.dpm
+Sunday 09/13/15 23:47:02: 2015-07-23.dpm
+Sunday 09/13/15 23:47:02: 2015-07-24.dpm
+Sunday 09/13/15 23:47:02: 2015-07-25.dpm
+Sunday 09/13/15 23:47:02: 2015-07-26.dpm
+Sunday 09/13/15 23:47:02: 2015-07-27.dpm
+Sunday 09/13/15 23:47:02: 2015-07-28.dpm
+Sunday 09/13/15 23:47:02: 2015-07-29.dpm
+Sunday 09/13/15 23:47:02: 2015-07-30.dpm
+Sunday 09/13/15 23:47:02: 2015-07-31.dpm
+Sunday 09/13/15 23:47:02: Подключаемся к БД 
+
+Sunday 09/13/15 23:47:02: читаем алиасы
+Sunday 09/13/15 23:47:02: D:\\tnvdata\\Aliases.ini
+Sunday 09/13/15 23:47:02: Alias0=Тестовый*\\Digiton_server\TNV_RADIO\BIG_BASE\POLNAYA_BAZA\
+Sunday 09/13/15 23:47:02: Alias1=джинглы*\\Digiton_server\TNV_RADIO\JINGL'S\
+Sunday 09/13/15 23:47:02: Alias2=реклама*\\Digiton_server\TNV_RADIO\RECLAMA\
+Sunday 09/13/15 23:47:02: Alias3=TNV-for-Efir*\\Digiton_server\TNV_RADIO\TNV-for-Efir\
+Sunday 09/13/15 23:47:02: Alias4=NEWS*\\Digiton_server\tnv_radio\NEWS\
+Sunday 09/13/15 23:47:02: Alias5=PROGRAMS*\\Digiton_server\tnv_radio\PROGRAMS\
+Sunday 09/13/15 23:47:02: Alias6=ROTACIA*\\Digiton_server\tnv_radio\ROTACIA\
+Sunday 09/13/15 23:47:02: Alias7=BIG_BASE*\\Digiton_server\TNV_RADIO\BIG_BASE\
+Sunday 09/13/15 23:47:02: Alias8=ATM*\\Digiton_server\tnv_radio\ATM\
+Sunday 09/13/15 23:47:02: Alias9=region1_chelni_nizhnekamsk*\\MERLIN\region\region1_chelni_nizhnekamsk\audio\region1_chelni_nizhnekamsk\
+Sunday 09/13/15 23:47:02: Alias10=region2_leninogorsk_almetevsk*\\MERLIN\region\region2_leninogorsk_almetevsk\audio\region2_leninogorsk_almetevsk\
+Sunday 09/13/15 23:47:02: Update Aliaces
+Sunday 09/13/15 23:47:02: открываем файл для чтения
+Sunday 09/13/15 23:47:02: D:\tnvdata\2015-07-01.dpm
+Sunday 09/13/15 23:48:22: открываем файл для чтения
+Sunday 09/13/15 23:48:22: D:\tnvdata\2015-07-02.dpm
+Sunday 09/13/15 23:50:48: открываем файл для чтения
+Sunday 09/13/15 23:50:48: D:\tnvdata\2015-07-03.dpm
+Sunday 09/13/15 23:54:09: открываем файл для чтения
+Sunday 09/13/15 23:54:09: D:\tnvdata\2015-07-04.dpm
+Sunday 09/13/15 23:55:48: открываем файл для чтения
+Sunday 09/13/15 23:55:48: D:\tnvdata\2015-07-05.dpm
+Sunday 09/13/15 23:57:14: открываем файл для чтения
+Sunday 09/13/15 23:57:14: D:\tnvdata\2015-07-06.dpm
+Sunday 09/13/15 23:58:40: открываем файл для чтения
+Sunday 09/13/15 23:58:40: D:\tnvdata\2015-07-07.dpm
+Monday 09/14/15 00:00:10: открываем файл для чтения
+Monday 09/14/15 00:00:10: D:\tnvdata\2015-07-08.dpm
+Monday 09/14/15 00:01:43: открываем файл для чтения
+Monday 09/14/15 00:01:43: D:\tnvdata\2015-07-09.dpm
+Monday 09/14/15 00:03:09: открываем файл для чтения
+Monday 09/14/15 00:03:09: D:\tnvdata\2015-07-10.dpm
+Monday 09/14/15 00:04:46: открываем файл для чтения
+Monday 09/14/15 00:04:46: D:\tnvdata\2015-07-11.dpm
+Monday 09/14/15 00:06:35: открываем файл для чтения
+Monday 09/14/15 00:06:35: D:\tnvdata\2015-07-12.dpm
+Monday 09/14/15 00:08:37: открываем файл для чтения
+Monday 09/14/15 00:08:37: D:\tnvdata\2015-07-13.dpm
+Monday 09/14/15 00:10:24: открываем файл для чтения
+Monday 09/14/15 00:10:24: D:\tnvdata\2015-07-14.dpm
+Monday 09/14/15 00:11:55: открываем файл для чтения
+Monday 09/14/15 00:11:55: D:\tnvdata\2015-07-15.dpm
+Monday 09/14/15 00:13:26: открываем файл для чтения
+Monday 09/14/15 00:13:26: D:\tnvdata\2015-07-16.dpm
+Monday 09/14/15 00:14:54: открываем файл для чтения
+Monday 09/14/15 00:14:54: D:\tnvdata\2015-07-17.dpm
+Monday 09/14/15 00:16:33: открываем файл для чтения
+Monday 09/14/15 00:16:33: D:\tnvdata\2015-07-18.dpm
+Monday 09/14/15 00:18:00: открываем файл для чтения
+Monday 09/14/15 00:18:00: D:\tnvdata\2015-07-19.dpm
+Monday 09/14/15 00:19:28: открываем файл для чтения
+Monday 09/14/15 00:19:28: D:\tnvdata\2015-07-20.dpm
+Monday 09/14/15 00:21:17: открываем файл для чтения
+Monday 09/14/15 00:21:17: D:\tnvdata\2015-07-21.dpm
+Monday 09/14/15 00:23:04: открываем файл для чтения
+Monday 09/14/15 00:23:04: D:\tnvdata\2015-07-22.dpm
+Monday 09/14/15 00:24:39: открываем файл для чтения
+Monday 09/14/15 00:24:39: D:\tnvdata\2015-07-23.dpm
+Monday 09/14/15 00:26:19: открываем файл для чтения
+Monday 09/14/15 00:26:19: D:\tnvdata\2015-07-24.dpm
+Monday 09/14/15 00:27:56: открываем файл для чтения
+Monday 09/14/15 00:27:56: D:\tnvdata\2015-07-25.dpm
+Monday 09/14/15 00:29:40: открываем файл для чтения
+Monday 09/14/15 00:29:40: D:\tnvdata\2015-07-26.dpm
+Monday 09/14/15 00:31:23: открываем файл для чтения
+Monday 09/14/15 00:31:23: D:\tnvdata\2015-07-27.dpm
+Monday 09/14/15 00:32:58: открываем файл для чтения
+Monday 09/14/15 00:32:58: D:\tnvdata\2015-07-28.dpm
+Monday 09/14/15 00:34:27: открываем файл для чтения
+Monday 09/14/15 00:34:27: D:\tnvdata\2015-07-29.dpm
+Monday 09/14/15 00:35:56: открываем файл для чтения
+Monday 09/14/15 00:35:56: D:\tnvdata\2015-07-30.dpm
+Monday 09/14/15 00:37:23: открываем файл для чтения
+Monday 09/14/15 00:37:23: D:\tnvdata\2015-07-31.dpm
+Monday 09/14/15 00:38:53: Завершаем работу.
+Monday 09/14/15 01:31:18: Читаем connection.txt
+Monday 09/14/15 01:31:18: Настройки подключения к БД host, user, password, database, port, unix_socket, clientflag 
+Monday 09/14/15 01:31:18: localhost
+Monday 09/14/15 01:31:18: admin
+Monday 09/14/15 01:31:18: admin
+Monday 09/14/15 01:31:18: cpp_data
+Monday 09/14/15 01:31:18: 3306
+Monday 09/14/15 01:31:18: 0
+Monday 09/14/15 01:31:18: 0
+Monday 09/14/15 01:31:18: Настройки расположения файлов  dpm_filepath, dpm_filename, aliase_patch
+Monday 09/14/15 01:31:18: D:\tnvdata\
+Monday 09/14/15 01:31:18: *.dpm
+Monday 09/14/15 01:31:18: D:\\tnvdata\\
+Monday 09/14/15 01:31:18: Ищем файлы в директории
+Monday 09/14/15 01:31:18: 2015-07-04.dpm
+Monday 09/14/15 01:31:18: Подключаемся к БД 
+
+Monday 09/14/15 01:31:18: читаем алиасы
+Monday 09/14/15 01:31:18: D:\\tnvdata\\Aliases.ini
+Monday 09/14/15 01:31:18: Alias0=Тестовый*\\Digiton_server\TNV_RADIO\BIG_BASE\POLNAYA_BAZA\
+Monday 09/14/15 01:31:18: Alias1=джинглы*\\Digiton_server\TNV_RADIO\JINGL'S\
+Monday 09/14/15 01:31:18: Alias2=реклама*\\Digiton_server\TNV_RADIO\RECLAMA\
+Monday 09/14/15 01:31:18: Alias3=TNV-for-Efir*\\Digiton_server\TNV_RADIO\TNV-for-Efir\
+Monday 09/14/15 01:31:18: Alias4=NEWS*\\Digiton_server\tnv_radio\NEWS\
+Monday 09/14/15 01:31:18: Alias5=PROGRAMS*\\Digiton_server\tnv_radio\PROGRAMS\
+Monday 09/14/15 01:31:18: Alias6=ROTACIA*\\Digiton_server\tnv_radio\ROTACIA\
+Monday 09/14/15 01:31:18: Alias7=BIG_BASE*\\Digiton_server\TNV_RADIO\BIG_BASE\
+Monday 09/14/15 01:31:18: Alias8=ATM*\\Digiton_server\tnv_radio\ATM\
+Monday 09/14/15 01:31:18: Alias9=region1_chelni_nizhnekamsk*\\MERLIN\region\region1_chelni_nizhnekamsk\audio\region1_chelni_nizhnekamsk\
+Monday 09/14/15 01:31:18: Alias10=region2_leninogorsk_almetevsk*\\MERLIN\region\region2_leninogorsk_almetevsk\audio\region2_leninogorsk_almetevsk\
+Monday 09/14/15 01:31:18: Update Aliaces
+Monday 09/14/15 01:31:18: открываем файл для чтения
+Monday 09/14/15 01:31:18: D:\tnvdata\2015-07-04.dpm
+Monday 09/14/15 01:31:53: Завершаем работу.

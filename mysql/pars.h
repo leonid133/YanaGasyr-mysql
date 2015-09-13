@@ -16,6 +16,7 @@ class Parser
 		std::string time2;
 		std::string more1;
 		std::string more2;
+        bool success;
 
 }; 
 
