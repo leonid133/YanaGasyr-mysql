@@ -1,4 +1,4 @@
-﻿Build started 14.09.2015 1:31:14.
+﻿Build started 14.09.2015 2:56:42.
      1>Project "C:\Users\User\Documents\Visual Studio 2010\Projects\mysql\mysql\mysql.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Touching "x64\Release\mysql.unsuccessfulbuild".
@@ -15,4 +15,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.10
+Time Elapsed 00:00:00.06

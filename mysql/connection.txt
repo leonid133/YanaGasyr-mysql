@@ -12,3 +12,8 @@ clientflag = 0
 dpm_path = D:\\tnvdata\\
 dpm_filename = *.dpm
 aliase_patch = D:\\tnvdata\\
+
+[READ DATA SETUP]
+day = 1
+mon = 2
+year = 0

@@ -102,6 +102,15 @@ void ReadFilepatchINI(std::string &dpm_filepath, std::string &dpm_filename, std:
 
 }
 
+void ReadFileReadSetup(int& day, int& mon, int& year)
+{
+    std::string patch_file_name = "";
+	patch_file_name += "connection.txt";
+    day = atoi( ParseIni( patch_file_name, "day" ).c_str() );
+    mon = atoi( ParseIni( patch_file_name, "mon" ).c_str() );
+    year = atoi( ParseIni( patch_file_name, "year" ).c_str() );
+}
+
 std::vector<std::pair<std::string, std::string> > ReadAliasesFrom( std::string aliase_patch )
 {
     std::vector<std::pair<std::string, std::string> > result_aliases;
@@ -278,31 +287,75 @@ COLLATE = utf8_bin;
         std::string filename = *it_dpm_file_vector;
         for(auto it_filename = filename.begin(); it_filename != filename.end(); ++it_filename  )
         {
-            if(*it_filename == char(.))
+            if(*it_filename == 46)
                 break;
             filename_date += *it_filename;
         }
         std::string day = "";
 	    std::string mon = "";
 	    std::string year = "";
-        parsfiledatecounter = 0;
+        int parsfiledatecounter = 0;
         for(auto it_filename_date =filename_date.begin(); it_filename_date!= filename_date.end(); ++it_filename_date)
         {
-		    if(*it_filename_date == 46)
-		    {	parsfiledatecounter++; }
-		    switch( parscounter )	
+		    if(*it_filename_date == 45)
+		    {	parsfiledatecounter++; continue; }
+		    switch( parsfiledatecounter )	
 		    {
 			    case 0:
-				    day += Date1[i];
+				    year +=*it_filename_date;
 			    break;
 			    case 1:
-				    mon += Date1[i];
+				    mon +=*it_filename_date;
 			    break;
 			    case 2:
-				    year += Date1[i];
+				    day +=*it_filename_date;
 			    break;
 		    }
         }
+        int day_set = 0;
+        int mon_set = 0;
+        int year_set = 0;
+        ReadFileReadSetup(day_set, mon_set, year_set);
+        int day_file = atoi( day.c_str() );
+        int mon_file = atoi( mon.c_str() );
+        int year_file = atoi( year.c_str() );
+
+        time_t rawtime = {0};
+		struct tm * timeinfo ;
+		time ( &rawtime );                             
+		timeinfo = localtime ( &rawtime );
+        char time_buff[100];
+        ReciveMsg("Ñטסעולםמו גנולÿ דדדד, לל, הה:");
+        itoa(timeinfo->tm_year+1900, time_buff, 10);
+        ReciveMsg(time_buff);
+         itoa(timeinfo->tm_mon+1, time_buff, 10);
+        ReciveMsg(time_buff);
+         itoa(timeinfo->tm_mday, time_buff, 10);
+        ReciveMsg(time_buff);
+
+        ReciveMsg("Âנולÿ פאיכא דדדד, לל, הה:");
+        itoa(year_file, time_buff, 10);
+        ReciveMsg(time_buff);
+         itoa(mon_file, time_buff, 10);
+        ReciveMsg(time_buff);
+         itoa(day_file, time_buff, 10);
+        ReciveMsg(time_buff);
+
+        ReciveMsg("Âנולÿ ףסעאםמגכוםםמדמ טםעונגאכא דדדד, לל, הה:");
+        itoa(year_set, time_buff, 10);
+        ReciveMsg(time_buff);
+         itoa(mon_set, time_buff, 10);
+        ReciveMsg(time_buff);
+         itoa(day_set, time_buff, 10);
+        ReciveMsg(time_buff);
+
+        if(year_set < (timeinfo->tm_year + 1900 - year_file))
+            continue;
+        else if( mon_set <  (timeinfo->tm_mon + 1 - mon_file) &&  year_set == (timeinfo->tm_year + 1900 - year_file))
+            continue;
+        else if( day_set < (timeinfo->tm_mday - day_file) && mon_set == (timeinfo->tm_mon + 1 - mon_file) )
+            continue;
+
         std::string patch_file_name = dpm_filepath;
         patch_file_name += *it_dpm_file_vector;
         ReciveMsg("מעךנûגאול פאיכ הכÿ קעוםטÿ");
