@@ -7,6 +7,7 @@ class Parser
 		void parseStr( std::string arg );
 		std::string n;
 		std::string DateTime;
+        std::string DateTimeReal;
 		std::string Date1;
 		std::string time1;
 		std::string more0;

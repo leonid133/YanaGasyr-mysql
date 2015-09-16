@@ -353,7 +353,7 @@ COLLATE = utf8_bin;
             continue;
         else if( mon_set <  (timeinfo->tm_mon + 1 - mon_file) &&  year_set == (timeinfo->tm_year + 1900 - year_file))
             continue;
-        else if( day_set < (timeinfo->tm_mday - day_file) && mon_set == (timeinfo->tm_mon + 1 - mon_file) )
+        else if( day_set < (timeinfo->tm_mday - day_file) && mon_set == (timeinfo->tm_mon + 1 - mon_file) &&  year_set == (timeinfo->tm_year + 1900 - year_file) )
             continue;
 
         std::string patch_file_name = dpm_filepath;
