@@ -9,11 +9,11 @@ unix_socket = 0
 clientflag = 0
 
 [PATCH SETUP]
-dpm_path = D:\\tnvdata\\
+dpm_filepath = D:\\tnvdata\\
 dpm_filename = *.dpm
 aliase_patch = D:\\tnvdata\\
 
 [READ DATA SETUP]
 day = 1
 mon = 2
-year = 0
+year = 1

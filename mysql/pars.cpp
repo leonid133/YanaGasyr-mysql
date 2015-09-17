@@ -26,9 +26,13 @@ void Parser::parseStr( std::string arg )
 	
 	for ( int i= 0, i_end = arg.length()-1; i < i_end; ++i )
 	{
-		if(arg[i] == NULL || arg[i] == 343 || arg[i] == 344 || arg[i] == 28 || arg[i] == '\0' || arg[i] == char(0))
+		//if(arg[i] == '\\')
+        //    this->locate += "/";
+        if(arg[i] == NULL /*|| arg[i] == 343 || arg[i] == 344 || arg[i] == 28 || /*arg[i] == '\0' || arg[i] == char(0)*/)
 			continue;
-		if(arg[i] == 9)
+		
+
+        if(arg[i] == 9)
 		{	parscounter++; i++;}
 		switch(parscounter)	
 		{
@@ -64,7 +68,8 @@ void Parser::parseStr( std::string arg )
                     this->locate += arg[i];
 				if( arg[i] == 92 )
 				    {filname = "";}
-				filname += arg[i];
+                else
+				    filname += arg[i];
 			break;
 
 			case 6:
